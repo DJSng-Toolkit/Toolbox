@@ -1,0 +1,72 @@
+name: New addition
+description: Suggest an idea for placeholder
+labels: ["type: enhancement", "etc: triage"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Let's make sure everything's in order.
+      options:
+        - label: I have searched existing issues and did not find a duplicate of my issue
+          required: false
+        - label: I am aware that shaders and other intensive overhauls will not be added
+          required: false
+        - label: I am aware that OptiFine will not be added
+          required: false
+        - label: I have not been truthful to the above boxes
+          required: false
+  - type: dropdown
+    id: game
+    attributes:
+      label: Select game
+      description: What game is this suggestion about?
+      options:
+        - Minecraft
+        - WEBFISHING
+        - General suggestion for placeholder (not a game)
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Game version (MC)
+      description: What version of Minecraft is this suggestion for? Remember that I do not list mods for 1.15-1.13.
+      options:
+        - 1.21.x
+        - 1.20.x
+        - 1.19.x
+        - 1.18.x
+        - 1.17.x
+        - 1.16.x
+        - 1.12.x
+        - 1.8.x
+        - 1.7.x
+        - 1.6.x
+        - 1.5.x
+      default: 0
+    validations:
+      required: false
+  - type: textarea
+    id: more-versions
+    attributes:
+      label: Other versions
+      description: Does your mod support any other versions?
+      placeholder: [list all other supported versions or write "N/A"]
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Mod details
+      description: Explain what the mod does
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add extra context that could be important. Include any incompatibilities or other important issues.
+    validations:
+      required: false
