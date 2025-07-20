@@ -18,7 +18,7 @@ body:
   - type: dropdown
     id: game
     attributes:
-      label: Select game
+      label: Game
       description: What game is this suggestion about? Please select.
       options:
         - Minecraft
@@ -33,6 +33,7 @@ body:
       label: (MC) Game version
       description: What version of Minecraft is this suggestion for? Remember that I do not list mods for 1.15-1.13.
       options:
+        - N/A
         - 1.21.x
         - 1.20.x
         - 1.19.x
