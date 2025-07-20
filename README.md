@@ -32,5 +32,9 @@ Guide
 
 ## Games
 
-🚧 [Webfishing](https://github.com/DJSng106/placeholder/tree/webfishing)  
-❌ Minecraft  
+| Game | Page |
+| --- | --- |
+| Webfishing | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/webfishing) |
+|  Minecraft | ❌ Unavailable |
+ 
+
