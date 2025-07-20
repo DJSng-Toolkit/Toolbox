@@ -52,7 +52,7 @@ body:
     attributes:
       label: Other versions
       description: Does your mod support any other versions?
-      placeholder: [list all other supported versions or write "N/A"]
+      placeholder: List all other supported versions or write "N/A"
     validations:
       required: true
   - type: textarea
@@ -60,7 +60,7 @@ body:
     attributes:
       label: Mod details
       description: Explain what the mod does
-      placeholder: [add details]
+      placeholder: Add details
     validations:
       required: true
   - type: textarea
@@ -68,6 +68,6 @@ body:
     attributes:
       label: Additional context
       description: Add extra context that could be important. Include any incompatibilities or other important issues.
-      placeholder: [add more]
+      placeholder: Add details
     validations:
       required: false
