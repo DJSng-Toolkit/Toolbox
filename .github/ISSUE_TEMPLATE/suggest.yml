@@ -18,7 +18,7 @@ body:
   - type: dropdown
     id: game
     attributes:
-      label: Game
+      label: Suggestion for...
       description: What game is this suggestion about? Please select.
       options:
         - Minecraft
