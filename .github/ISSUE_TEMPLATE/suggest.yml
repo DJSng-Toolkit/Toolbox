@@ -68,5 +68,6 @@ body:
     attributes:
       label: Additional context
       description: Add extra context that could be important. Include any incompatibilities or other important issues.
+      placeholder: [add more]
     validations:
       required: false
