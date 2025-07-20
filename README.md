@@ -24,8 +24,6 @@ I try my best to keep up to date in the modding communities that may be affected
 | Webfishing | [✅ Available, not frequently maintained](https://github.com/DJSng106/placeholder/tree/webfishing) |
 |  Minecraft | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/minecraft) |
 
-***
-
 ## Guides
 | Icon | Meaning |
 | --- | :---: |
@@ -34,6 +32,8 @@ I try my best to keep up to date in the modding communities that may be affected
 | ⚠ | Potentially out of date |
 | 🚧 | Work in progress |
 | ❌ | Not started |
+
+***
 
 | Fix category | Meaning |
 | --- | --- |
