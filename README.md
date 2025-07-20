@@ -1,24 +1,27 @@
-# Placeholder
+# Toolkit
 > [!NOTE]
-> Placeholder is in very early development and does not yet contain every necessary section or mod that's essential for play.  
+> Toolkit in very early development and does not yet contain every necessary section or mod that's essential for play.  
 > WEBFISHING's section is considered complete, but Minecraft users will find our section currently lacking.
 
+A fan project created by DJSng, inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), that documents mod incompatibilities, performance optimizations and puts it all into a wiki and a couple of lists. Toolkit is not affiliated nor endorsed by TUL in any way. 
 
-A documentation and performance optimization guide / list inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) (and NordicGamerFE / TheUsefulList's [official continunation](https://github.com/TheUsefulLists/UsefulMods)).
+Toolkit is a modding resource meant for users who want performance and may have mods that are incompatible. It's similar to a lot of Minecraft lists, but for other games, as well as having a wiki with a small set of edge cases that users might want to know about. I aim to do that through the use of notes.
 
-Placeholder is based my two previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge (and later privately shared to friends as DJSng's Toolkit) called "Adventurer's Toolkit", and expands upon TUL's execution by adding guides for more games and documenting more edge cases for possible incompatibilities.   
-This list is a fan project that tries to expand upon TUL's execution by including more than performance and adding more in depth notes to some mods that might have edge cases.
-
-This is a fan project inspired by TheUsefulLists, which does not endorse Placeholder in any way.
+Toolkit is based my two previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit" (and later privately shared to friends as DJSng's Toolkit). It is similar to TUL's list of Minecraft Performance mods, though not exactly the same thing. Toolkit includes more than optimization, such as server friendly mods users can install on their client to aid them in various ways, some trivial, some very specific and tailored to specific audiences.
 
 ## Disclaimer
-Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
+While I test mods on my own time to the best of my ability to ensure that they are not malicious or infected, especially since I depend on a lot of these mods myself, you should still check mods yourself with provided file hashes, content extraction tools (like 7-ZIP), and other methods that you see fit. I cannot be held responsibile if you are infected with anything on this list.
 
-## Games
+I try my best to keep up to date in the modding communities that may be affected by malware attacks and similar attacks, such as Minecraft, but I cannot stay up to date *as soon as it happens* because I have a life outside of this guide. Exercise caution and keep up to date with trusted resources and communities.
+
+***
+
 | Game | Page |
 | --- | --- |
-| Webfishing | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/webfishing) |
-|  Minecraft | ❌ Unavailable |
+| Webfishing | [✅ Available, not frequently maintained](https://github.com/DJSng106/placeholder/tree/webfishing) |
+|  Minecraft | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/minecraft) |
+
+***
 
 ## Guides
 ### Status
