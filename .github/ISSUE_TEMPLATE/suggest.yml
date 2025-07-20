@@ -60,7 +60,7 @@ body:
     attributes:
       label: Mod details
       description: Explain what the mod does
-      placeholder: 
+      placeholder: [add details]
     validations:
       required: true
   - type: textarea
