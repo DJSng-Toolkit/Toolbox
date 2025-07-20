@@ -1,4 +1,7 @@
 # Placeholder
+> [!NOTE]
+> Placeholder is in very early development and does not yet contain every necessary section or mod that's essential for play.
+> WEBFISHING's section is considered complete, but Minecraft users will find our section currently lacking.
 A documentation and performance optimization guide / list inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) (and NordicGamerFE / TheUsefulList's [official continunation](https://github.com/TheUsefulLists/UsefulMods)).
 
 Placeholder is based my two previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge (and later privately shared to friends as DJSng's Toolkit) called "Adventurer's Toolkit", and expands upon TUL's execution by adding guides for more games and documenting more edge cases for possible incompatibilities.   
