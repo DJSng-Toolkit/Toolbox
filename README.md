@@ -27,8 +27,6 @@ I try my best to keep up to date in the modding communities that may be affected
 ***
 
 ## Guides
-### Status
-Guide
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
@@ -37,15 +35,12 @@ Guide
 | 🚧 | Work in progress |
 | ❌ | Not started |
 
-### Mod "effectiveness categories"
-(for optimizations & bugfixes mod types)
-
-| Name | Meaning |
+| Fix category | Meaning |
 | --- | --- |
-| Essential | Known to have an impact |
-| Situational | Might have an impact to some |
-| Edge case | Very situational, may not be essential |
-| Depricated | A game update depricated this mod |
+| Essential | Makes an impact in most situations, a must have |
+| Situational | Might have an impact to some, some users may be unaffected |
+| Edge case | Non-essential but may make an impact to specific users |
+| Deprecated | This mod is no longer required since a certain game version |
 | Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions |
 | Possible snake oil | Obscure, new or not tested, may make performance worse |
  
