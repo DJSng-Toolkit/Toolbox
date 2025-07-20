@@ -54,5 +54,5 @@ I try my best to keep up to date in the modding communities that may be affected
 | Possible snake oil | Obscure, new or not tested, may make performance worse. Try at your own discretion. |
 | Snake oil | Doesn't actually optimize the game in a meaningful way. It might make performance worse, the performance might not change at all. |
 
- 
-
+## Special Thanks
+[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) - Original inspiration, some formatting  
