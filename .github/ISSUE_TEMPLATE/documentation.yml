@@ -1,5 +1,5 @@
 name: Documentation edit
-description: Documentation changes for placeholder
+description: Documentation changes for Toolkit
 labels: ["type: documentation", "etc: triage"]
 body:
   - type: checkboxes

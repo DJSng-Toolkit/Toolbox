@@ -1,5 +1,5 @@
 name: New addition
-description: Suggest an idea for placeholder
+description: Suggest an idea for Toolkit
 labels: ["type: enhancement", "etc: triage"]
 body:
   - type: checkboxes
