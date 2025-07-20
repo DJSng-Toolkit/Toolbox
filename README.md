@@ -16,6 +16,9 @@ I try my best to keep up to date in the modding communities that may be affected
 
 ***
 
+> [!TIP]
+> You should look at our [Wiki](https://github.com/DJSng106/placeholder/wiki) for more information about mod incompatibilities and unrecommended mods.
+
 | Game | Page |
 | --- | --- |
 | Webfishing | [✅ Available, not frequently maintained](https://github.com/DJSng106/placeholder/tree/webfishing) |
