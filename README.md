@@ -10,6 +10,7 @@ Toolkit is a modding resource meant for users who want performance and may have 
 Toolkit is based my two previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit" (and later privately shared to friends as DJSng's Toolkit). It is similar to TUL's list of Minecraft Performance mods, though not exactly the same thing. Toolkit includes more than optimization, such as server friendly mods users can install on their client to aid them in various ways, some trivial, some very specific and tailored to specific audiences.
 
 ## Disclaimer
+<!-- TUL did this, maybe it's best i do this too. Idk if Kevsky is cool with me pretty much copying his homework though -->
 While I test mods on my own time to the best of my ability to ensure that they are not malicious or infected, especially since I depend on a lot of these mods myself, you should still check mods yourself with provided file hashes, content extraction tools (like 7-ZIP), and other methods that you see fit. I cannot be held responsibile if you are infected with anything on this list.
 
 I try my best to keep up to date in the modding communities that may be affected by malware attacks and similar attacks, such as Minecraft, but I cannot stay up to date *as soon as it happens* because I have a life outside of this guide. Exercise caution and keep up to date with trusted resources and communities.
@@ -26,6 +27,7 @@ I try my best to keep up to date in the modding communities that may be affected
 | ROBLOX | [🚧 Work in Progress](https://github.com/DJSng106/toolkit/tree/roblox) |
 
 ## Guides
+<!-- ugh i need a notes extension so much -->
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
@@ -55,4 +57,5 @@ I try my best to keep up to date in the modding communities that may be affected
 | Snake oil | Doesn't actually optimize the game in a meaningful way. It might make performance worse, the performance might not change at all. |
 
 ## Special Thanks
+<!-- hi guys i added all your names now please don't sue me -->
 [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) - Original inspiration, some formatting  
