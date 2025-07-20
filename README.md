@@ -41,15 +41,17 @@ I try my best to keep up to date in the modding communities that may be affected
 | 🏆 | Greatest Of All Time |
 
 ***
+> [!NOTE]
+> You still need to read mod descriptions and notes for any incompatibilities.
 
 | Fix category | Meaning |
 | --- | --- |
-| Essential | Makes an impact in most situations, a must have |
-| Situational | Might have an impact to some, some users may be unaffected |
-| Edge case | Non-essential but may make an impact to specific users |
-| Deprecated | This mod is no longer required since a certain game version |
-| Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions |
-| Possible snake oil | Obscure, new or not tested, may make performance worse |
+| Essential | Makes an impact in most situations, you should definitely have this installed. |
+| Situational | Might have an impact to some, some users may be unaffected. You should still install this if you can. |
+| Edge case | Non-essential but may make an impact to specific users. Okay if you need the most out of a low spec device. |
+| Deprecated | This mod is no longer required since a certain game version. |
+| Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions. |
+| Possible snake oil | Obscure, new or not tested, may make performance worse. Try at your own discretion. |
 | Snake oil | Doesn't actually optimize the game in a meaningful way. It might make performance worse, the performance might not change at all. |
 
  
