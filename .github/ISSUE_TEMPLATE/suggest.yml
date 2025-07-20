@@ -30,7 +30,7 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Game version (MC)
+      label: (MC) Game version
       description: What version of Minecraft is this suggestion for? Remember that I do not list mods for 1.15-1.13.
       options:
         - 1.21.x
@@ -50,11 +50,11 @@ body:
   - type: textarea
     id: more-versions
     attributes:
-      label: Other versions
+      label: (MC) Other versions
       description: Does your mod support any other versions?
       placeholder: List all other supported versions or write "N/A"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: details
     attributes:
