@@ -34,6 +34,12 @@ I try my best to keep up to date in the modding communities that may be affected
 | 🚧 | Work in progress |
 | ❌ | Not started |
 
+| Icon | Meaning |
+| --- | :---: |
+| ⭐ | "Best of" mod |
+| ✨ | Unique mod |
+| 🏆 | Greatest Of All Time |
+
 ***
 
 | Fix category | Meaning |
