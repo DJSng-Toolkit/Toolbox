@@ -50,5 +50,7 @@ I try my best to keep up to date in the modding communities that may be affected
 | Deprecated | This mod is no longer required since a certain game version |
 | Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions |
 | Possible snake oil | Obscure, new or not tested, may make performance worse |
+| Snake oil | Doesn't actually optimize the game in a meaningful way. It might make performance worse, the performance might not change at all. |
+
  
 
