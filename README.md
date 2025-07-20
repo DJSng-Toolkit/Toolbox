@@ -9,7 +9,11 @@ This is a fan project inspired by TheUsefulLists, which does not endorse Placeho
 ## Disclaimer
 Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
 
-
+## Games
+| Game | Page |
+| --- | --- |
+| Webfishing | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/webfishing) |
+|  Minecraft | ❌ Unavailable |
 
 ## Guides
 ### Status
@@ -33,12 +37,5 @@ Guide
 | Depricated | A game update depricated this mod |
 | Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions |
 | Possible snake oil | Obscure, new or not tested, may make performance worse |
-
-## Games
-
-| Game | Page |
-| --- | --- |
-| Webfishing | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/webfishing) |
-|  Minecraft | ❌ Unavailable |
  
 
