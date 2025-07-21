@@ -4,7 +4,7 @@
 >
 > Toolkit is not affiliated, nor endorsed by TUL in any way. 
 
-Toolkit, a fan project created by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), about being a ultilist and miniwiki for a couple of funny video games.  
+Toolkit, a fan project created by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), about being a multilist and miniwiki for a couple of funny video games.  
 It is mainly tailored to beginners, and it's information may be 
 
 Toolkit is mainly meant for users who want or need resources and recommendations for alternative tools for their game, as well as notes based on my own personal experience. It's mainly meant for Minecraft, but also has a few other lists that might be of help. Along with a collection of mods that might be new to a user, toolkit also offers utilities for outside the game that might also be of interest. Although it's very similar to lists, Toolkit also contains a mini wiki for games that might also be of help for edge cases.
