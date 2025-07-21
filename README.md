@@ -19,8 +19,7 @@ While I test mods on my own time to the best of my ability to ensure that they a
 
 I try my best to keep up to date in the modding communities that may be affected by malware attacks and similar attacks, such as Minecraft, but I cannot stay up to date *as soon as it happens* because I have a life outside of this guide. Exercise caution and keep up to date with trusted resources and communities.
 
-***
-
+# Game resources
 > [!TIP]
 > You should look at our [Wiki](https://github.com/DJSng106/placeholder/wiki) for more information about mod incompatibilities and unrecommended mods.
 
@@ -32,6 +31,7 @@ I try my best to keep up to date in the modding communities that may be affected
 
 ## Guides
 <!-- ugh i need a notes extension so much -->
+
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
@@ -39,6 +39,8 @@ I try my best to keep up to date in the modding communities that may be affected
 | ⚠ | Potentially out of date |
 | 🚧 | Work in progress |
 | ❌ | Not started |
+
+***
 
 | Icon | Meaning |
 | --- | :---: |
