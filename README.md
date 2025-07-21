@@ -31,24 +31,6 @@ I try my best to keep up to date in the modding communities that may be affected
 
 ## Guides
 <!-- ugh i need a notes extension so much -->
-
-| Icon | Meaning |
-| --- | :---: |
-| 🔃 | Actively maintained |
-| ✅ | Considered up to date |
-| ⚠ | Potentially out of date |
-| 🚧 | Work in progress |
-| ❌ | Not started |
-
-***
-
-| Icon | Meaning |
-| --- | :---: |
-| ⭐ | "Best of" mod |
-| ✨ | Unique mod |
-| 🏆 | Greatest Of All Time |
-
-***
 > [!NOTE]
 > You still need to read mod descriptions and notes for any incompatibilities.
 
@@ -61,6 +43,22 @@ I try my best to keep up to date in the modding communities that may be affected
 | Succeeded | A new mod does what this mod does, see notes. May still be needed for specific game versions. |
 | Possible snake oil | Obscure, new or not tested, may make performance worse. Try at your own discretion. |
 | Snake oil | Doesn't actually optimize the game in a meaningful way. It might make performance worse, the performance might not change at all. |
+
+***
+
+| Icon | Meaning |
+| --- | :---: |
+| 🔃 | Actively maintained |
+| ✅ | Considered up to date |
+| ⚠ | Potentially out of date |
+| 🚧 | Work in progress |
+| ❌ | Not started |
+
+| Icon | Meaning |
+| --- | :---: |
+| ⭐ | "Best of" mod |
+| ✨ | Unique mod |
+| 🏆 | Greatest Of All Time |
 
 ## Special Thanks
 <!-- hi guys i added all your names now please don't sue me -->
