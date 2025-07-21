@@ -1,13 +1,17 @@
 # Toolkit
 > [!NOTE]
-> Toolkit in very early development and does not yet contain every necessary section or mod that's essential for play.  
-> WEBFISHING's section is considered complete, but Minecraft users will find our section currently lacking.
+> Toolkit is still very early in development, and it's resources may not contain every necessary mod, launcher, or other software kinds. With the project being very early on, some sections may be outdated, lacking or misinformed that will be corrected later.
+>
+> Toolkit is not affiliated, nor endorsed by TUL in any way. 
 
-A fan project created by DJSng, inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), that documents mod incompatibilities, performance optimizations and puts it all into a wiki and a couple of lists. Toolkit is not affiliated nor endorsed by TUL in any way. 
+Toolkit, a fan projected created by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), about being a ultilist and miniwiki for a couple of funny video games.  
+It is mainly tailored to beginners, and it's information may be 
 
-Toolkit is a modding resource meant for users who want performance and may have mods that are incompatible. It's similar to a lot of Minecraft lists, but for other games, as well as having a wiki with a small set of edge cases that users might want to know about. I aim to do that through the use of notes.
+Toolkit is mainly meant for users who want or need resources and recommendations for alternative tools for their game, as well as notes based on my own personal experience. It's mainly meant for Minecraft, but also has a few other lists that might be of help. Along with a collection of mods that might be new to a user, toolkit also offers utilities for outside the game that might also be of interest. Although it's very similar to lists, Toolkit also contains a mini wiki for games that might also be of help for edge cases.
 
-Toolkit is based my two previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit" (and later privately shared to friends as DJSng's Toolkit). It is similar to TUL's list of Minecraft Performance mods, though not exactly the same thing. Toolkit includes more than optimization, such as server friendly mods users can install on their client to aid them in various ways, some trivial, some very specific and tailored to specific audiences.
+The project is mainly based my previous attemptsto make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit", which later became the basis for the private no-site modpack DJSng's Toolkit, where the name of the project comes from.
+
+Toolkit is similar TheUsefulList's UsefulMinecraft list of Performance mods, though not directly based on it with more new, early and experimental optimizations as well as more Incompatibility and general notes,   server friendly mods users can install on their client to aid them in various ways, and some other non-fix mods mainly meant for players who want Vanilla+ resources as well.
 
 ## Disclaimer
 <!-- TUL did this, maybe it's best i do this too. Idk if Kevsky is cool with me pretty much copying his homework though -->
