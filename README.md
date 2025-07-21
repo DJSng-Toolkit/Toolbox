@@ -29,7 +29,11 @@ I try my best to keep up to date in the modding communities that may be affected
 | Minecraft | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/tree/minecraft) |
 | ROBLOX | [🚧 Work in Progress](https://github.com/DJSng106/toolkit/tree/roblox) |
 
-## Guides
+## Special Thanks
+<!-- hi guys i added all your names now please don't sue me -->
+[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) - Original inspiration, some formatting  
+
+# Guides
 <!-- ugh i need a notes extension so much -->
 > [!NOTE]
 > You still need to read mod descriptions and notes for any incompatibilities.
@@ -59,7 +63,3 @@ I try my best to keep up to date in the modding communities that may be affected
 | ⭐ | "Best of" mod |
 | ✨ | Unique mod |
 | 🏆 | Greatest Of All Time |
-
-## Special Thanks
-<!-- hi guys i added all your names now please don't sue me -->
-[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) - Original inspiration, some formatting  
