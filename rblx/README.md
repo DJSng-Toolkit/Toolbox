@@ -17,9 +17,9 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 
 | Page |
 | --- |
-| [🔃 Bootstrappers](https://github.com/DJSng106/toolkit/blob/main/rblx/resources/bootstrappers.md) |
-| [⚠ Extensions](https://github.com/DJSng106/toolkit/blob/main/rblx/resources/extensions.md) |
+| [🔃 Bootstrappers](resources/bootstrappers.md) |
+| [⚠ Extensions](resources/extensions.md) |
 | ❌ Themes |
 | ❌ Tools |
 | ❌ Websites |
-| [✅ Old ROBLOX Utilities](https://github.com/DJSng106/toolkit/blob/main/rblx/resources/old.md) |
+| [✅ Old ROBLOX Utilities](resources/old.md) |
