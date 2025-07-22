@@ -16,3 +16,7 @@ Remember to view the [main branch README](../README.md) for icon meaning.
 | [✅ Optimizations](mods/optimization.md) |
 | [✅ Bugfixes](mods/fixes.md) | 
 | [✅ Enhancements](mods/enhancements.md) | 
+
+
+<!-- NOTE load jekyll theme -->
+{% include head-custom.html %}
