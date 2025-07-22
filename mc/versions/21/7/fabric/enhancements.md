@@ -31,7 +31,7 @@
 | [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Nerjal_Nosk | Both | Also removes recipe toasts and telemetry. |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |
 | [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Shiewk | Client | N/A |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -39,16 +39,15 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Jade](https://modrinth.com/mod/nvQzSEkH) |  Unknown | 
-| [Just Enough Book](https://modrinth.com/mod/vCHGW3kJ) | 
+| [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Snownee | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
-| [Notes](https://modrinth.com/mod/ko8Qabo1) |  Unknown | 
+| [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
 | [Quick Menu](https://modrinth.com/mod/quick-menu) | Unknown | A client-side mod that adds a configurable easy-to-access menu that runs basic repetitive commands. | ImCodist | Client | Also works on 1.21.5 if you use [this PR's artifact build.](https://github.com/ImCodist/quick-menu/actions/runs/15097735005?pr=30). |
-| [Resourcify](https://modrinth.com/mod/RLzHAoZe) |  Unknown | 
-| [SkinShuffle](https://modrinth.com/mod/3s19I5jr) |  Unknown | 
-| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) |  Unknown | 
-| [Xaero's World Map](https://www.curseforge.com/projects/317780) |  Unknown | 
+| [Resourcify](https://modrinth.com/mod/resourcify) |  Unknown | In-game resource pack, data pack and shader browser and updater. | DeDiamondPro | Client | N/A |
+| [SkinShuffle](https://modrinth.com/mod/skinshuffle) |  Unknown | Effortless in-game skin customization and management—change, store, and customize your skins with SkinShuffle. | IMB111 | Install on the server to change skin without reconnecting. [Also has a Paper version](https://modrinth.com/plugin/skinshuffle-bridge). Also install LazyShuffle to use local files. |
+| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. | 
+| [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A |
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
@@ -66,7 +65,7 @@
 # Required by server and players
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) |  Unknown | 
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) |  Unknown | A working voice chat in Minecraft! | henkelmax | Both | Required on both ends. Client handles sending voice chats, and server handles the actual voice chat magic. Supports basically all versions and server configs. Also client/server mismatching loader compatible (i.e: Paper server w/ Forge client) |
 
 # Dangerous mods
 These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
