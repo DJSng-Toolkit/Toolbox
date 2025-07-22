@@ -1,3 +1,6 @@
+<!-- NOTE load jekyll theme -->
+{% include head-custom.html %}
+
 # Toolkit: WEBFISHING
 > [!IMPORTANT]  
 > All mods here require **GDWeave**. You should also install **Tacklebox**, as it adds a Mods button to edit settings, making some mods require it
@@ -16,7 +19,3 @@ Remember to view the [main branch README](../README.md) for icon meaning.
 | [✅ Optimizations](mods/optimization.md) |
 | [✅ Bugfixes](mods/fixes.md) | 
 | [✅ Enhancements](mods/enhancements.md) | 
-
-
-<!-- NOTE load jekyll theme -->
-{% include head-custom.html %}
