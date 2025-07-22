@@ -26,7 +26,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # Modding resources (per-version)
 | Version | Page |
 | --- | :---: |
-| 1.21.x | [⚠ 1.21.4 complete for Fabric only](https://github.com/DJSng106/placeholder/blob/main/mc/versions/21/index.md) |
+| 1.21.x | [⚠ 1.21.4 complete for Fabric only, 1.21.7 work in progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/21/index.md) |
 | 1.20.x | [⚠ 1.20.1 complete for NeoForge only](https://github.com/DJSng106/placeholder/blob/main/mc/versions/20/index.md) |
 | 1.19.x | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/18/2/index.md) |
