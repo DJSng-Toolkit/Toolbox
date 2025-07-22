@@ -19,21 +19,21 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # General Resources
 | Page |
 | :---: |
-| [❌ Launchers](https://github.com/DJSng106/placeholder/blob/main/mc/nonspecific/launchers.md) |
-| [🚧 Modpacks](https://github.com/DJSng106/placeholder/blob/main/mc/nonspecific/modpacks.md) |
-| [❌ Websites](https://github.com/DJSng106/placeholder/blob/main/mc/nonspecific/websites.md) |
+| [❌ Launchers](nonspecific/launchers.md) |
+| [🚧 Modpacks](nonspecific/modpacks.md) |
+| [❌ Websites](nonspecific/websites.md) |
 
 # Modding resources (per-version)
 | Version | Page |
 | --- | --- |
-| 1.21.x | [⚠ 1.21.4 complete for Fabric only, 1.21.7 work in progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/21/index.md) |
-| 1.20.x | [⚠ 1.20.1 complete for NeoForge only](https://github.com/DJSng106/placeholder/blob/main/mc/versions/20/index.md) |
-| 1.19.x | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/19/index.md) |
-| 1.18.2 | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/18/2/index.md) |
-| 1.17.1 | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/17/1/index.md) |
-| 1.16.5 | [🚧 Work in Progress](https://github.com/DJSng106/placeholder/blob/main/mc/versions/16/5/index.md) |
-| 1.12.2 | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/12/2/index.md) |
-| 1.8.9 | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/8/9/index.md) |
-| 1.7.10 | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/7/10/index.md) |
-| 1.6.4 | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/6/4/index.md) |
-| 1.5.2 | [❌ Unavailable](https://github.com/DJSng106/placeholder/blob/main/mc/versions/5/2/index.md) |
+| 1.21.x | [⚠ 1.21.4 complete for Fabric only, 1.21.7 work in progress](versions/21/index.md) |
+| 1.20.x | [⚠ 1.20.1 complete for NeoForge only](versions/20/index.md) |
+| 1.19.x | [❌ Unavailable](versions/19/index.md) |
+| 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
+| 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
+| 1.16.5 | [🚧 Work in Progress](versions/16/5/index.md) |
+| 1.12.2 | [❌ Unavailable](versions/12/2/index.md) |
+| 1.8.9 | [❌ Unavailable](versions/8/9/index.md) |
+| 1.7.10 | [❌ Unavailable](versions/7/10/index.md) |
+| 1.6.4 | [❌ Unavailable](versions/6/4/index.md) |
+| 1.5.2 | [❌ Unavailable](versions/5/2/index.md) |
