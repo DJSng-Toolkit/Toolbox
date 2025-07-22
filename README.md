@@ -53,9 +53,9 @@ I try my best to keep up to date in the modding communities that may be affected
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
-| ✅ | Considered up to date |
-| ⚠ | Potentially out of date |
-| 🚧 | Work in progress |
+| ✅ | Considered finished |
+| ⚠ | Work in progress (or outdated) |
+| 🚧 | Very early WIP |
 | ❌ | Not started |
 
 | Icon | Meaning |
