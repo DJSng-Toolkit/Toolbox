@@ -8,7 +8,7 @@
 | [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in) | Unknown | This simple mod adds fade-in animation for chunks, like in Bedrock Edition of Minecraft. | kerudion | Client | Didn't really like this mod. I included it anyway. |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | PepperCode1 | Client | Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. Their Forge compatibility is poor, don't use it. |
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | None | Adds a neat little particle effect to leaf blocks | Fourmisain | Client | Has an unofficial [Forge port](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) on CurseForge. This feature might have been added in newer versions of MineCraft. |
-| [Hide Armour](https://modrinth.com/mod/PEDVX3Ka) | 
+| [Hide Armour](https://modrinth.com/mod/hide-armour) | Unknown | An ultra-lightweight mod that hides own armor on the client side | flowerinsnow | Client | N/A |
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Unknown | Changes most scrollbars in the game to scroll smoothly. | JustAlittleWolf | Client | N/A |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | tr7zw | Client | N/A |
 
@@ -17,21 +17,21 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Better "Add Server"](https://modrinth.com/mod/s4DtR8IM) |
-| [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) |
-| [ChatNotify](https://modrinth.com/mod/Iudurxl8) |
-| [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) | 
+| [Better "Add Server"](https://modrinth.com/mod/betteraddserver) | Unknown | Some small quality of life changes for the "add server" menu | Player005 | Client | N/A |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
+| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | 
+| [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) | Unknown | Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted. | TheIllusiveC4 | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Crash Assistant](https://modrinth.com/mod/crash-assistant) | Unknown | Shows a GUI after Minecraft crashes, immediately showing all affected logs. | KostromDan | Client | Good for beginners. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Kira-NT | Client | N/A |
-| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | 
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) |
-| [Narrus Yeetus no error](https://modrinth.com/mod/9E1hG4mk) | 
-| [Not So Essential](https://modrinth.com/mod/CDo9Niyy) | 
-| [Recipe Advancements Yeeter](https://modrinth.com/mod/Ypb9Mccf) | 
-| [ResourcePackCached](https://modrinth.com/mod/d4phKsx2) | 
-| [ViewServerResources](https://modrinth.com/mod/7fjtaRZx) | 
-| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 
+| [DisableAccessibilityScreen](https://modrinth.com/mod/disable-accessibility-screen) |  Unknown | Removes the Accessibility Screen on first launch, introduced with 23w03a | DaFaqs | Client | Good for new instances. Does nothing if you've played before. |
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Unknown | Gamma / Brightness / Night Vision mod, making it easy to see in the dark. | Sjouwer | Client | Fullbright implementation with client-sided Night Vision for shader users. Has two options: setting brightness to 1500% or using Night Vision effect. |
+| [Narrus Yeetus no error](https://modrinth.com/mod/narrusyeetus-no-error) |  Unknown | Removes the pesky narrator and all the errors related to it, without throwing another one. | Smeagle | Client | Fork of the original mod that removes a crash. Makes DisableAccessibilityScreen unnecessary. |
+| [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
+| [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Nerjal_Nosk | Both | Also removes recipe toasts and telemetry. |
+| [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |
+| [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Shiewk | Client | N/A |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -39,16 +39,16 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Jade](https://modrinth.com/mod/nvQzSEkH) | 
+| [Jade](https://modrinth.com/mod/nvQzSEkH) |  Unknown | 
 | [Just Enough Book](https://modrinth.com/mod/vCHGW3kJ) | 
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
-| [Notes](https://modrinth.com/mod/ko8Qabo1) | 
+| [Notes](https://modrinth.com/mod/ko8Qabo1) |  Unknown | 
 | [Quick Menu](https://modrinth.com/mod/quick-menu) | Unknown | A client-side mod that adds a configurable easy-to-access menu that runs basic repetitive commands. | ImCodist | Client | Also works on 1.21.5 if you use [this PR's artifact build.](https://github.com/ImCodist/quick-menu/actions/runs/15097735005?pr=30). |
-| [Resourcify](https://modrinth.com/mod/RLzHAoZe) | 
-| [SkinShuffle](https://modrinth.com/mod/3s19I5jr) | 
+| [Resourcify](https://modrinth.com/mod/RLzHAoZe) |  Unknown | 
+| [SkinShuffle](https://modrinth.com/mod/3s19I5jr) |  Unknown | 
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) | 
-| [Xaero's World Map](https://www.curseforge.com/projects/317780) | 
+| [World Host](https://modrinth.com/mod/2AIZDfYo) |  Unknown | 
+| [Xaero's World Map](https://www.curseforge.com/projects/317780) |  Unknown | 
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
@@ -66,7 +66,7 @@
 # Required by server and players
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | 
+| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) |  Unknown | 
 
 # Dangerous mods
 These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
