@@ -15,15 +15,15 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Better "Add Server"](https://modrinth.com/mod/s4DtR8IM) |
-| [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) |
-| [ChatNotify](https://modrinth.com/mod/Iudurxl8) |
-| [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) | 
+| [Better "Add Server"](https://modrinth.com/mod/betteraddserver) | Unknown | Some small quality of life changes for the "add server" menu | Player005 | Client | N/A |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | 
+| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | 
+| [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) |  Unknown | 
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Kira-NT | Client | N/A |
-| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | 
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) |
-| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 
+| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) |  Unknown | 
+| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) | Unknown | 
+| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |  Unknown | 
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -34,8 +34,8 @@
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
 | [Quick Menu](https://modrinth.com/mod/quick-menu) | Unknown | A client-side mod that adds a configurable easy-to-access menu that runs basic repetitive commands. | ImCodist | Client | Also works on 1.21.5 if you use [this PR's artifact build.](https://github.com/ImCodist/quick-menu/actions/runs/15097735005?pr=30). |
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) | 
-| [Xaero's World Map](https://www.curseforge.com/projects/317780) | 
+| [World Host](https://modrinth.com/mod/2AIZDfYo) |  Unknown | 
+| [Xaero's World Map](https://www.curseforge.com/projects/317780) |  Unknown | 
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
