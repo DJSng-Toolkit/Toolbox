@@ -1,0 +1,5 @@
+<!-- TODO find more helpful extensions? -->
+| Name | Description | Author | Platform | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| BTRoblox | BTRoblox, or Better Roblox, is an extension that aims to enhance Roblox's website by modifying the look and adding to the core website functionality by adding a plethora of new features. | AntiBoomz | [Chromium](https://chromewebstore.google.com/detail/btroblox-making-roblox-be/hbkpclpemjeibhioopcebchdmohaieln), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/btroblox/) | Required by a good portion of "Old ROBLOX" themes. A great starting point. |
+| [RoSeal](https://www.roseal.live/) | Improve your Roblox website experience, seals included! | roseal.live | [Chromium](https://chromewebstore.google.com/detail/roseal-augmented-roblox-e/hfjngafpndganmdggnapblamgbfjhnof), [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/roseal/) | Might cause incompatibilities with other websites |

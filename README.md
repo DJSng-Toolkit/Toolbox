@@ -25,9 +25,9 @@ I try my best to keep up to date in the modding communities that may be affected
 
 | Game | Page |
 | --- | --- |
-| Webfishing | [✅ Available, not frequently maintained](https://github.com/DJSng106/placeholder/tree/webfishing) |
-| Minecraft | [⚠ WIP, some versions complete for specific versions & modloaders only](https://github.com/DJSng106/placeholder/tree/minecraft) |
-| ROBLOX | [⚠ Work in Progress, one page complete](https://github.com/DJSng106/toolkit/tree/roblox) |
+| Webfishing | [✅ Available, not frequently maintained](https://github.com/DJSng106/toolkit/blob/main/webfish/README.md) |
+| Minecraft | [⚠ WIP, some versions complete for specific versions & modloaders only](https://github.com/DJSng106/toolkit/blob/main/mc/README.md) |
+| ROBLOX | [⚠ Work in Progress, one page complete](https://github.com/DJSng106/toolkit/blob/main/rblx/README.md) |
 
 ## Special Thanks
 <!-- hi guys i added all your names now please don't sue me -->
