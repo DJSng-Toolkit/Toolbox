@@ -4,8 +4,8 @@
 
 | Version | Page |
 | --- | :---: |
-| 1.21.7-1.21.8 | [✅ Halfway done](7/index.md) |
-| 1.21.6 | [✅ Fabric only](6/index.md) |
+| 1.21.7-1.21.8 | [⚠ Halfway done](7/index.md) |
+| 1.21.6 | [⚠ Fabric only](6/index.md) |
 | 1.21.5 | [🚧 Work in Progress](5/index.md) |
 | 1.21.4 | [⚠ Fabric only](4/index.md) |
 | 1.21.1 | [❌ Unavailable](1/index.md) |
