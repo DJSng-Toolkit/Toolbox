@@ -5,6 +5,7 @@
 | [Embeddium](https://modrinth.com/mod/sk9rgfiA) |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | malte0811 | Both | N/A |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | RaphiMC | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
+| [LazyDFU](https://modrinth.com/mod/lazydfu) | None | Makes the game boot faster by deferring non-essential initialization | astei | Both | Patched on servers on 1.19.4+. Patched on clients starting with 1.21.x. |
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | No-compromises game logic optimization mod. | CaffeineMC | Both | N/A |
 | [Modernfix](https://modrinth.com/mod/nmDcB62a) | None | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. | embeddedt | Both | 1.21.5+ builds can be obtained from Simply Optimized. |
 | [Sodium](https://modrinth.com/mod/sodium) | VulkanMod | The fastest rendering optimization mod for Minecraft. | CaffeineMC | Client | N/A |
