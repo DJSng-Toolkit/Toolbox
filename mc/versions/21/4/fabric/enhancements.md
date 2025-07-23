@@ -16,14 +16,17 @@
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Better "Add Server"](https://modrinth.com/mod/betteraddserver) | Unknown | Some small quality of life changes for the "add server" menu | Player005 | Client | N/A |
-| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | 
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
 | [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | 
-| [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) |  Unknown | 
+| [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) | Unknown | Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted. | TheIllusiveC4 | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Kira-NT | Client | N/A |
-| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) |  Unknown | 
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) | Unknown | 
-| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |  Unknown | 
+| [DisableAccessibilityScreen](https://modrinth.com/mod/disable-accessibility-screen) |  Unknown | Removes the Accessibility Screen on first launch, introduced with 23w03a | DaFaqs | Client | Good for new instances. Does nothing if you've played before. | 
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Unknown | Gamma / Brightness / Night Vision mod, making it easy to see in the dark. | Sjouwer | Client | Fullbright implementation with client-sided Night Vision for shader users. Has two options: setting brightness to 1500% or using Night Vision effect. |
+| [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
+| [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |
+| [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Shiewk | Client | N/A |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -31,11 +34,14 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Snownee | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
+| [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
 | [Quick Menu](https://modrinth.com/mod/quick-menu) | Unknown | A client-side mod that adds a configurable easy-to-access menu that runs basic repetitive commands. | ImCodist | Client | Also works on 1.21.5 if you use [this PR's artifact build.](https://github.com/ImCodist/quick-menu/actions/runs/15097735005?pr=30). |
+| [SkinShuffle](https://modrinth.com/mod/skinshuffle) |  Unknown | Effortless in-game skin customization and management—change, store, and customize your skins with SkinShuffle. | IMB111 | Install on the server to change skin without reconnecting. [Also has a Paper version](https://modrinth.com/plugin/skinshuffle-bridge). Also install LazyShuffle to use local files. |
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) |  Unknown | 
-| [Xaero's World Map](https://www.curseforge.com/projects/317780) |  Unknown | 
+| [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A | 
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
