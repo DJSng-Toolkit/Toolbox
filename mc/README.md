@@ -19,7 +19,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # General Resources
 | Page |
 | :---: |
-| [❌ Launchers](nonspecific/launchers.md) |
+| [🔃 Launchers](nonspecific/launchers.md) |
 | [🚧 Modpacks](nonspecific/modpacks.md) |
 | [❌ Websites](nonspecific/websites.md) |
 
