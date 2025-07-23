@@ -28,7 +28,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | Version | Page |
 | --- | --- |
 | 1.21.x | [⚠ Some versions complete for specific loaders](versions/21/index.md) |
-| 1.20.x | [⚠ 1.20.1 complete for NeoForge only](versions/20/index.md) |
+| 1.20.x | [⚠ Some versions complete for specific loaders](versions/20/index.md) |
 | 1.19.x | [❌ Unavailable](versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
