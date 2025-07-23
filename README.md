@@ -60,6 +60,6 @@ I try my best to keep up to date in the modding communities that may be affected
 
 | Icon | Meaning |
 | --- | :---: |
+| 🏆 | Greatest Of All Time |
 | ⭐ | "Best of" mod |
 | ✨ | Unique mod |
-| 🏆 | Greatest Of All Time |
