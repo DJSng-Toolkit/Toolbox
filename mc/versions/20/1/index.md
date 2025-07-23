@@ -5,7 +5,7 @@
 | LuxForge | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
 | NeoForge | [🔃 Actively maintained](neo/optimizations.md) | [⚠ Work in Progress](neo/fixes.md) | [🔃 Actively maintained](neo/enhancements.md) |
 
-<!-- TODO add from this list
+<!-- TODO: 1.20.1 --  add from this list for fabric
 - \.index
 - [AppleSkin](https://minecraft.curseforge.com/projects/appleskin)
 - [Borderless Mining](https://github.com/comp500/BorderlessMining)

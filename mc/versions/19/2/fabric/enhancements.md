@@ -1,4 +1,4 @@
-<!-- TODO add these:
+<!-- TODO add these to 1.19.2 enhancements
 
 - [Better End Sky](https://github.com/PinkGoosik/better-end-sky)
 - [Borderless Mining](https://github.com/comp500/BorderlessMining)

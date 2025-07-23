@@ -1,4 +1,4 @@
-<!-- NOTE this is kind of rough and messy -->
+<!-- NOTE: this is kind of rough and messy -->
 Assume all revivals here are for Windows only.  
 All revivals here are mainly launchers. Due to the complications of Website launchers, as well as my own limited experience, there will be almost no website revivals here.  
 

@@ -1,5 +1,4 @@
-<!-- TODO
-sort from these:
+<!-- TODO: sort from these
 - [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
 - [Animatica](https://github.com/FoundationGames/Animatica)
 - [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
