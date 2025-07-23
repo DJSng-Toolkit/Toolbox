@@ -20,6 +20,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # General Resources
 | Page |
 | :---: |
+| *Link to page* |
 | [🔃 Launchers & Clients](nonspecific/launchers.md) |
 | [🚧 Modpacks](nonspecific/modpacks.md) |
 | [🔃 Websites](nonspecific/websites.md) |
@@ -27,6 +28,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # Modding resources (per-version)
 | Version | Page |
 | --- | --- |
+|  | *Links to page* |
 | 1.21.x | [⚠ Some versions complete for specific loaders](versions/21/index.md) |
 | 1.20.x | [⚠ Some versions complete for specific loaders](versions/20/index.md) |
 | 1.19.x | [❌ Unavailable](versions/19/index.md) |
