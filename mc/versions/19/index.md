@@ -7,3 +7,6 @@
 
 # Other info
 1.19.1 and after implement Chat Reports.
+
+<!-- TODO add 1.19.4 -->
+<!-- TODO also sort 1.19.3 out -->

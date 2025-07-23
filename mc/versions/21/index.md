@@ -13,3 +13,5 @@
 # Other info
 1.21.8 mods *should* mostly be compatible with 1.21.7 mods.   
 1.21.8 added Intel iGPU and AMD GPU fixes, which may be unnecessary if you do not have one of those cards.  
+
+<!-- TODO on 1.21.1, add new finds -->
