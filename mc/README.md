@@ -9,7 +9,8 @@
 > You should benchmark your framerate after adding/removing key performance mods if you care about performance differences.   
 > This list is mostly curated based on my personal experience. **YMMV**. 
 
-A bunch of mods for Minecraft. Inspired by TheUsefulLists (but not affiliated), with my own curated list of optimizations. Also has other non-mod resources like [UsefulMinecraft](https://github.com/TheUsefulLists/UsefulMinecraft). 
+A bunch of mods for Minecraft. Inspired by TheUsefulLists (but not affiliated), with my own curated list of optimizations. Also has other non-mod resources like [UsefulMinecraft](https://github.com/TheUsefulLists/UsefulMinecraft).  
+Remember to view the [main branch README](../README.md) for icon meaning.  
  
 This section is mostly just based on mods I'm familiar with for performance in addition to some stuff also featured on TUL and some other mods I've also heard of. In addition to basic performance and bugfixes, my "enhancements" list includes a mix of Vanilla (like TUL) and Vanilla+ utilities. I am also considering a "Recommendations" section for some popular community suggestions.
 
