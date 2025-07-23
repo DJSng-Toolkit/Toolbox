@@ -1,7 +1,6 @@
 > [!NOTE]
 > 1.20 versions of NeoForge do not natively support Sodium. You will need to use a fork of Sodium for these versions.
 
-## 1.20.x
 | Version | Page |
 | --- | :---: |
 | 1.20.6 | [❌ Unavailable](6/index.md) |
