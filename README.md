@@ -1,17 +1,12 @@
 # Toolkit
 > [!NOTE]
-> Toolkit is still very early in development, and it's resources may not contain every necessary mod, launcher, or other software kinds. With the project being very early on, some sections may be outdated, lacking or misinformed that will be corrected later.
->
-> Toolkit is not affiliated, nor endorsed by TUL in any way. 
+> Toolkit is in early development, it may be lacking or need corrections. Toolkit is not affiliated, nor endorsed by TUL in any way. 
 
-Toolkit, a fan project created by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), about being a multilist and miniwiki for a couple of funny video games.  
-It is mainly tailored to beginners, and it's information is mainly tailored to users who may be having issues that are both bizzare and normal.
+A project about Lists™ and resources, inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods).
 
-Toolkit is mainly meant for users who want or need resources and recommendations for alternative tools for their game, as well as notes based on my own personal experience. It's mainly meant for Minecraft, but also has a few other lists that might be of help. Along with a collection of mods that might be new to a user, toolkit also offers utilities for outside the game that might also be of interest. Although it's very similar to lists, Toolkit also contains a mini wiki for games that might also be of help for edge cases.
+Toolkit is a project by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation TUL, containing personal notes and modding resources mainly based on my own experiences. It is mainly tailored to beginners, but is also meant to be used for general resources for all. Toolkit is stacked with notes based on situations that have happened to me before, in hopes of documenting situations that other users might also be in, as well as being a more curated version of many lists out there.
 
-The project is mainly based my previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit", which later became the basis for the private no-site modpack DJSng's Toolkit, where the name of the project comes from.
-
-Toolkit is similar TheUsefulList's UsefulMinecraft list of Performance mods, though not directly based on it with more new, early and experimental optimizations as well as more Incompatibility and general notes,   server friendly mods users can install on their client to aid them in various ways, and some other non-fix mods mainly meant for players who want Vanilla+ resources as well.
+By default, everything's organized in categories and also comes with emoji labels for mods that have earned their status for being miracle medicine. I've also included some new, early, experimental and what I think is some more obscure stuff that users might also benefit from. The project is mainly based my previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit", which later became the basis for the private no-site modpack DJSng's Toolkit, where the name of the project comes from.
 
 ## Disclaimer
 <!-- TUL did this, maybe it's best i do this too. Idk if Kevsky is cool with me pretty much copying his homework though -->
