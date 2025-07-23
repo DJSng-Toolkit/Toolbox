@@ -21,7 +21,7 @@
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [AI\-Improvements](https://modrinth.com/mod/DSVgwcji) |
+| [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Best effective on the Server side, likely an edge case on Client. |
 | [AchievementOptimizer](https://modrinth.com/mod/SvXrP8rT) |
 | [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | OptiFine | Async particle tick/rendering | Harvey_Husky | Client | Disables some of Particle Core's optimizations when installed. |
 | [Cull Less Leaves Reforged](https://modrinth.com/mod/qthuEuVy) |
