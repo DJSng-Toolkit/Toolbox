@@ -1,6 +1,7 @@
 # Toolkit
 > [!NOTE]
-> Toolkit is in early development, it may be lacking or need corrections. Toolkit is not affiliated, nor endorsed by TUL in any way. 
+> Toolkit is in early development, it may be lacking or need corrections.  
+> Toolkit is not affiliated, nor endorsed by TUL in any way.   
 
 A project about Lists™ and resources, inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods).
 
