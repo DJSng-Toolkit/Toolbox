@@ -21,7 +21,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | :---: |
 | [🔃 Launchers & Clients](nonspecific/launchers.md) |
 | [🚧 Modpacks](nonspecific/modpacks.md) |
-| [❌ Websites](nonspecific/websites.md) |
+| [🔃 Websites](nonspecific/websites.md) |
 
 # Modding resources (per-version)
 | Version | Page |
