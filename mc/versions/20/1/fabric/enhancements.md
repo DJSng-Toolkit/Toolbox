@@ -11,6 +11,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
 | [ChatNotify](https://modrinth.com/mod/Iudurxl8) |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Kira-NT | Client | N/A |
