@@ -21,5 +21,5 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | [⚠ Extensions](resources/extensions.md) |
 | ❌ Themes |
 | ❌ Tools |
-| ❌ Websites |
+| [🚧 Websites](resources/sites.md) |
 | [✅ Old ROBLOX Utilities](resources/old.md) |
