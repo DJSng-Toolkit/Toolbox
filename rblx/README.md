@@ -19,7 +19,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | Page |
 | --- |
 | [🔃 Bootstrappers](resources/bootstrappers.md) |
-| [⚠ Extensions](resources/extensions.md) |
+| [✅ Extensions](resources/extensions.md) |
 | ❌ Themes |
 | ❌ Tools |
 | [🚧 Websites](resources/sites.md) |
