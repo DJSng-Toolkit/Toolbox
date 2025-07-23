@@ -31,7 +31,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 |  | *Links to page* |
 | 1.21.x | [⚠ Some versions complete for specific loaders](versions/21/index.md) |
 | 1.20.x | [⚠ Some versions complete for specific loaders](versions/20/index.md) |
-| 1.19.x | [❌ Unavailable](versions/19/index.md) |
+| 1.19.x | [🚧 Work in Progress](versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
 | 1.16.5 | [🚧 Work in Progress](versions/16/5/index.md) |
