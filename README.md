@@ -26,7 +26,7 @@ I try my best to keep up to date in the modding communities that may be affected
 | Game | Page |
 | --- | --- |
 | Webfishing | [✅ Available, not frequently maintained](webfish/README.md) |
-| Minecraft | [⚠ WIP, some versions complete for specific versions & modloaders only](mc/README.md) |
+| Minecraft | [🔃 Work in Progress, some content is complete and available](mc/README.md) |
 | ROBLOX | [⚠ Work in Progress, one page complete](rblx/README.md) |
 
 ## Special Thanks
