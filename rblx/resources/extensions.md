@@ -1,4 +1,4 @@
-<!-- TODO find more helpful extensions? -->
+<!-- REVIEW find more helpful extensions? -->
 | Name | Description | Author | Platform | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | 🏆 BTRoblox | BTRoblox, or Better Roblox, is an extension that aims to enhance Roblox's website by modifying the look and adding to the core website functionality by adding a plethora of new features. | AntiBoomz | [Chromium](https://chromewebstore.google.com/detail/btroblox-making-roblox-be/hbkpclpemjeibhioopcebchdmohaieln), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/btroblox/) | Required by a good portion of "Old ROBLOX" themes. A great starting point. |
