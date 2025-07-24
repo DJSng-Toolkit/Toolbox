@@ -1,5 +1,5 @@
 > [!WARNING]
-> This section mainly targets 1.21.7, as not all mods updated for 1.21.8 yet.
+> This section is incomplete and very barren, as Forge doesn't have a port of Sodium for this version yet.
 
 # Essential
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
