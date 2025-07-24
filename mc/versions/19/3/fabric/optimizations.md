@@ -6,7 +6,6 @@
 - [Borderless Mining](https://github.com/comp500/BorderlessMining)
 - [CIT Resewn](https://citresewn.shcm.io/)
 - [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
-- [Cloth Config v9](https://minecraft.curseforge.com/projects/cloth-config)
 - [Custom Entity Models](https://github.com/dorianpb/cem)
 - [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
 - FabricSkyBoxes
@@ -29,8 +28,6 @@
 - [Puzzle](https://www.midnightdust.eu/)
 - [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options)
 - Sodium Extra
-- YOSBR
-- [YetAnotherConfigLib](https://isxander.dev)
 - [Zoomify](https://isxander.dev)
 -->
 

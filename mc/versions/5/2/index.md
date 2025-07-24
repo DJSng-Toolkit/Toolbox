@@ -9,4 +9,4 @@
 | LuxForge | [✅ Available](forge/optimizations.md) | [✅ Available](forge/fixes.md) | [✅ Available](forge/enhancements.md) |
 | Legacy Fabric / Ornithe | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
 
-<!-- TODO find more mods for 1.5 -->
+<!-- REVIEW find more mods for 1.5 -->
