@@ -6,5 +6,5 @@
 | Modloader | Performance | Bugfixes | Enhancements |
 | --- | :---: | :---: | :---: |
 | | *Mods that improve performance* | *Mods that fix bugs* | *General mod recommendations that enhance the game while still connecting to vanilla servers* |
-| LuxForge | N/A | [🚧 Work in Progress](forge/fixes.md) | ❌ Unavailable |
+| LuxForge | [🚧 Work in Progress](forge/optimizations.md) | [🚧 Work in Progress](forge/fixes.md) | ❌ Unavailable |
 | Legacy Fabric / Ornithe | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
