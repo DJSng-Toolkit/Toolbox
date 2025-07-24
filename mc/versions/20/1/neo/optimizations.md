@@ -16,7 +16,6 @@
 | [Radium](https://modrinth.com/mod/2gvRmQXx) | 
 | [Redirected](https://modrinth.com/mod/redirected) | Redirector |
 | [Redirector](https://modrinth.com/mod/nzRWPE5v) | Redirected | 
-| [Starlight](https://modrinth.com/mod/iRfIGC1s) | 
 
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
@@ -51,6 +50,7 @@
 | [Lag Optimizer](https://www.curseforge.com/projects/1294813) | 
 | [NoShade](https://modrinth.com/mod/no-shade) | 
 | [Smooth Boot \(Reloaded\)](https://modrinth.com/mod/z53V2L4P) | 
+| [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
