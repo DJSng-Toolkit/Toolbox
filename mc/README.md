@@ -30,7 +30,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | --- | --- |
 |  | *Links to page* |
 | 1.21.x | [🔃 One version complete, two Fabric only](versions/21/index.md) |
-| 1.20.x | [⚠ One version complete](versions/20/index.md) |
+| 1.20.x | [⚠ Work in Progress](versions/20/index.md) |
 | 1.19.x | [🚧 Work in Progress](versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
