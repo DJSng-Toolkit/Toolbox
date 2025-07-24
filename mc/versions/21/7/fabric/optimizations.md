@@ -45,7 +45,6 @@
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [RenderScale](https://modrinth.com/mod/renderscale) | Iris + Distant Horizions [^2] | Allows you to change Minecraft's render resolution separately from the HUD elements | zolo101 | Client | May cause lower performance, I haven't tested. Will definitely make your game look bad. Fork of ResolutionControl++. |
-| [Structure Layout Optimizer](https://modrinth.com/mod/ayPU0OHc) | 
 
 # Snake Oil / Gimmick
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |

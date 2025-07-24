@@ -55,6 +55,11 @@
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Sollace | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
+# Server sided
+| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: | :---: |
+ [Footprint](https://modrinth.com/mod/footprint) | Unknown | Server-side mod to keep world size down by not saving all chunks | JowhJy | Server | Might cause a small performance impact (unsaved chunks have to be generated again later)
+
 # Required by other players
 (but not required by server)
 
