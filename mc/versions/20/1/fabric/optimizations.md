@@ -30,3 +30,17 @@
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
+
+<!-- TODO: 1.20.1 --  add from this list
+- [Cull Less Leaves](https://isxander.dev)
+- [DashLoader](https://modrinth.com/mod/ZfQ3kTvR)
+- [Debugify](https://isxander.dev)
+- [EntityCulling\-Fabric](https://github.com/tr7zw/EntityCulling-Fabric)
+- [FastAnim](https://modrinth.com/mod/yHf7SALy)
+- [Faster Random](https://modrinth.com/mod/RfFxanNh)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
+- [Indium](https://modrinth.com/mod/indium)
+- [LazyDFU](https://github.com/astei/lazydfu)
+- [Memory Leak Fix](https://github.com/fxmorin/memoryleakfix)
+- [Nvidium](https://modrinth.com/mod/SfMw2IZN)
+ -->

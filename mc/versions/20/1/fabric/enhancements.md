@@ -52,3 +52,20 @@ Beware!
 
 
 [^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+
+
+<!-- TODO: 1.20.1 --  add from this list for fabric
+- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin)
+- [Borderless Mining](https://github.com/comp500/BorderlessMining)
+- [Chat Patches](https://curseforge.com/minecraft/mc-mods/chatpatches)
+- [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
+- [Game Menu Remove GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb)
+- Guardian
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
+- [LAN World Plug\-n\-Play](https://modrinth.com/mod/RTWpcTBp)
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- [Rebind Narrator](https://modrinth.com/mod/qw2Ls89j)
+- [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg)
+- [ViaFabricPlus](https://github.com/FlorianMichael/)
+- [Zoomify](https://isxander.dev)
+ -->
