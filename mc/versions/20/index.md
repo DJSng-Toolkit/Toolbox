@@ -3,7 +3,7 @@
 
 | Version | Page |
 | --- | :---: |
-| 1.20.6 | [❌ Unavailable](6/index.md) |
+| 1.20.5-1.20.6 | [❌ Unavailable](6/index.md) |
 | 1.20.4 | [❌ Unavailable](4/index.md) |
 | 1.20.2 | [❌ Unavailable](2/index.md) |
 | 1.20.0-1.20.1 | [🚧 Work in Progress](1/index.md) |
