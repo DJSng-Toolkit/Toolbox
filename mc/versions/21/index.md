@@ -2,6 +2,9 @@
 > Versions past 1.21.4 may have degraded performance.  
 > If you care about performance and efficiency, you should stay on 1.21.4 as long as possible.
 
+> [!NOTE]
+> LuxForge does not have many performance mods for 1.21. You should pick another modloader, such as NeoForge.
+
 | Version | Page |
 | --- | :---: |
 | 1.21.7-1.21.8 | [🔃 Actively maintained](7/index.md) |

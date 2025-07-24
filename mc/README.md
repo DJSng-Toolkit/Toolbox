@@ -29,8 +29,8 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | Version | Page |
 | --- | --- |
 |  | *Links to page* |
-| 1.21.x | [⚠ Some versions complete for specific loaders](versions/21/index.md) |
-| 1.20.x | [⚠ Some versions complete for specific loaders](versions/20/index.md) |
+| 1.21.x | [🔃 One version complete, two Fabric only](versions/21/index.md) |
+| 1.20.x | [⚠ One version complete](versions/20/index.md) |
 | 1.19.x | [🚧 Work in Progress](versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
@@ -40,3 +40,12 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | 1.7.10 | [❌ Unavailable](versions/7/10/index.md) |
 | 1.6.4 | [❌ Unavailable](versions/6/4/index.md) |
 | 1.5.2 | [❌ Unavailable](versions/5/2/index.md) |
+
+<!-- TODO secret page
+so these mods are compatible with these versions and need to be added
+
+
+*** FORGE ***
+https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4), 1.20-1.20.2
+
+-->

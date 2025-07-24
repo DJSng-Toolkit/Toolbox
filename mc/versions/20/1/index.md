@@ -3,4 +3,4 @@
 | | *Mods that improve performance* | *Mods that fix bugs* | *General mod recommendations that enhance the game while still connecting to vanilla servers* |
 | Fabric | [🚧 Work in Progress](fabric/optimizations.md) | [🚧 Work in Progress](fabric/fixes.md) | [🚧 Work in Progress](fabric/enhancements.md) |
 | LuxForge | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
-| NeoForge | [🔃 Actively maintained](neo/optimizations.md) | [⚠ Work in Progress](neo/fixes.md) | [🔃 Actively maintained](neo/enhancements.md) |
+| NeoForge | [🚧 Work in Progress](neo/optimizations.md) | [⚠ Work in Progress](neo/fixes.md) | [🚧 Work in Progress](neo/enhancements.md) |
