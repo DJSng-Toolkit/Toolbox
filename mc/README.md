@@ -38,8 +38,8 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | 1.12.2 | [⚠ Work in Progress](versions/12/2/index.md) |
 | 1.8.9 | [🚧 Work in Progress](versions/8/9/index.md) |
 | 1.7.10 | [🚧 Work in Progress](versions/7/10/index.md) |
-| 1.6.4 | [🚧 Work in Progress](versions/6/4/index.md) |
-| 1.5.2 | [✅ Forge only](versions/5/2/index.md) |
+| 1.6.4 | [⚠ Forge only, very incomplete](versions/6/4/index.md) |
+| 1.5.2 | [⚠ Forge only, very incomplete](versions/5/2/index.md) |
 
 <!-- TODO secret page
 so these mods are compatible with these versions and need to be added

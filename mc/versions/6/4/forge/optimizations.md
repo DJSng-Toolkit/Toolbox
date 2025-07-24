@@ -1,0 +1,4 @@
+# Essential
+| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [FpsPlus](https://www.curseforge.com/minecraft/mc-mods/fpsplus-lagfixes) | Unknown | This mod boosts your FPS by changing math functions to be either faster or less intensive. | abandenz | Client | Author recommends args `-server -XX:+AggressiveOpts -XX:+UseFastAccessorMethods`, lol. Description of the versions: FpsPlus (A) uses Rivens Normal, plus is a fork with a few extra fixes and changes. B uses SinHalf/CosHalf, C may be more stable and has a MathHelper rework, D uses Libfdx. You may require arguments `-Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true`, because of course you do. |
