@@ -11,7 +11,7 @@
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | No-compromises game logic optimization mod. | CaffeineMC | Both | N/A |
 | [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | None | Improve Minecraft CPU scheduling | UltimateBoomer | Both | N/A |
 | [Sodium](https://modrinth.com/mod/sodium) | Unknown | The fastest rendering optimization mod for Minecraft. | CaffeineMC | Client | You should also install [Indium](https://modrinth.com/mod/indium) for better compatibiity. |
-| [Starlight](https://modrinth.com/mod/iRfIGC1s) | 
+| [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | N/A |
 
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |

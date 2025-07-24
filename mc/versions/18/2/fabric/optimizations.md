@@ -7,7 +7,7 @@
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | None | Makes the game boot faster by deferring non-essential initialization | astei | Both | Patched on servers on 1.19.4+. Patched on clients starting with 1.21.x. |
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | No-compromises game logic optimization mod. | CaffeineMC | Both | N/A |
 | [Sodium](https://modrinth.com/mod/sodium) | Unknown | The fastest rendering optimization mod for Minecraft. | CaffeineMC | Client | N/A |
-| [Starlight](https://modrinth.com/mod/iRfIGC1s) | 
+| [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | N/A |
 
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
