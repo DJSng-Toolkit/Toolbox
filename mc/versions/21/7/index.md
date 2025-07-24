@@ -1,3 +1,6 @@
+> [!WARNING]
+> This section mainly targets Fabric and NeoForge. Forge's support for 1.21.7+ is not the best right now.
+
 | Modloader | Performance | Bugfixes | Enhancements |
 | --- | :---: | :---: | :---: |
 | | *Mods that improve performance* | *Mods that fix bugs* | *Enhancements to the game that are Vanilla compatible* |
