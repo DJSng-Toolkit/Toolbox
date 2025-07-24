@@ -29,7 +29,7 @@
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Better Taskbar](https://modrinth.com/mod/gPEcet33) | 
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
-| [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | 
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | 
 | [World Host](https://modrinth.com/mod/2AIZDfYo) | 
 | [Xaero's World Map](https://www.curseforge.com/projects/317780) | 
