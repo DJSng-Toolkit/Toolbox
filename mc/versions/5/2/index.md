@@ -7,4 +7,4 @@
 | --- | :---: | :---: | :---: |
 | | *Mods that improve performance* | *Mods that fix bugs* | *General mod recommendations that enhance the game while still connecting to vanilla servers* |
 | LuxForge | [✅ Available](forge/optimizations.md) | [✅ Available](forge/fixes.md) | [✅ Available](forge/enhancements.md) |
-| Legacy Fabric | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
+| Legacy Fabric | [❌ Unavailable](legacy/optimizations.md) | [❌ Unavailable](legacy/fixes.md) | [❌ Unavailable](legacy/enhancements.md) |
