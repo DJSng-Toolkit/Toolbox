@@ -1,5 +1,5 @@
 > [!WARNING]
-> Installing Forge on the server will force the players to also install Forge.
+> Installing Forge on the server will force the players to also install Forge. If you are making a modded server, also include [WhitelistFixer](https://modrinth.com/mod/whitelistfixer).
 
 
 | Modloader | Performance | Bugfixes | Enhancements |
