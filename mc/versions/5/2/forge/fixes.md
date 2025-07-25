@@ -1,4 +1,4 @@
 # Essential
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [DPI-Fix](https://www.curseforge.com/minecraft/mc-mods/dpi-fix) | Java JREs past version 8 | DPI-Fix Mod fixes the High DPI Scaling Awareness of Minecraft. | jredfox_ | Client | Coremod. Untested on Windows 7. Also sets process priority. Requires [change_niceness](https://github.com/jredfox/change_niceness/releases) companion app on Mac and [renicer](https://github.com/jredfox/change_niceness/releases) on Linux. |
+| [DPI-Fix](https://www.curseforge.com/minecraft/mc-mods/dpi-fix) | Java JREs past version 8 | DPI-Fix Mod fixes the High DPI Scaling Awareness of Minecraft. | jredfox_ | Client | Coremod, crashes the game if installed as a regular mod. You may need to add JVM Flag `-javaagent:coremods/[1.5-1.12.2]HighDPI-Fix-1.5.4.jar`. Untested on Windows 7. Also sets process priority. Requires [change_niceness](https://github.com/jredfox/change_niceness/releases) companion app on Mac and [renicer](https://github.com/jredfox/change_niceness/releases) on Linux. |
