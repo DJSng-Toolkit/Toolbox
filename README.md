@@ -21,8 +21,8 @@ I try my best to keep up to date in the modding communities that may be affected
 
 | Game | Page |
 | --- | --- |
-| Webfishing | [✅ Available, not frequently maintained](webfish/README.md) |
-| Minecraft | [🔃 Work in Progress, some content is available](mc/README.md) |
+| Webfishing | [✅ Available, inactive](webfish/README.md) |
+| Minecraft | [🔃 Actively maintained, early WIP](mc/README.md) |
 | ROBLOX | [⚠ Work in Progress, some content is complete](rblx/README.md) |
 
 ## Special Thanks
