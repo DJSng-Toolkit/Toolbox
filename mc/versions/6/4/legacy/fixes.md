@@ -1,5 +1,3 @@
-
-<!-- TODO remove comments and actually add the entries -->
 # Essential
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
