@@ -1,19 +1,13 @@
 
-<!-- TODO remove comments and actually add the entries -->
+> [!INFO]
+> If you are not using a launcher with support for Legacy Fabric, like ATLauncher, you should manually install it [here](https://legacyfabric.net/downloads.html). MultiMC users can import one of [these](https://github.com/Legacy-Fabric/multimc-instance-creator/releases) instances to use Legacy Fabric.
 # Essential
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-<!-- in this order:
-
-- [FPSPlus](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290619-freeuse-no-permission-needed-fpsplus-1-5-2-1-7-10)
-- [OptiFabric](https://modrinth.com/mod/legacy-optifabric)
-- [Force Port](https://modrinth.com/mod/forceport)
-
--->
+| [FPS Plus Legacy Fabric](https://modrinth.com/mod/fpspluslf) | Unknown | Legacy Fabric Port of FPS Plus using mixin. | HowardZHY | Client | N/A | 
+| [Legacy OptiFabric](https://modrinth.com/mod/legacy-optifabric) | Unknown |  OptiFabric for Legacy Fabric (1.3.1 to 1.13.2) and Ornithe (b1.7.3 to 1.14.4) | tildejustin | Client | No longer
 
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-<!-- in this order:
-- Dynamic Menu FPS
--->
+| [Dynamic Menu FPS](https://github.com/Minecraft-Java-Edition-Speedrunning/dynamic-fps) | Unknown | Improve performance when Minecraft is in the background  | tildejustin | Client | N/A |
