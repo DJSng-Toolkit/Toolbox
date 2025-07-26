@@ -26,7 +26,6 @@
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |
 | [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Shiewk | Client | N/A |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -42,6 +41,7 @@
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. |
 | [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A | 
 
 # Vanilla+
@@ -49,12 +49,6 @@
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Sollace | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
-
-# Required by other players
-(but not required by server)
-
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
 
 # Dangerous mods
 These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
