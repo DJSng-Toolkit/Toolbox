@@ -31,7 +31,6 @@
 | [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Nerjal_Nosk | Both | Also removes recipe toasts and telemetry. |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |
 | [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Shiewk | Client | N/A |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -46,6 +45,7 @@
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) |  Unknown | Effortless in-game skin customization and management—change, store, and customize your skins with SkinShuffle. | IMB111 | Install on the server to change skin without reconnecting. [Also has a Paper version](https://modrinth.com/plugin/skinshuffle-bridge). Also install LazyShuffle to use local files. |
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. | 
 | [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A |
 
 # Server sided
