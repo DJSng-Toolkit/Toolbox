@@ -35,7 +35,6 @@
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
-
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -49,22 +48,10 @@
 | [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A |
 
-# Vanilla+
-(for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
-
 # Server sided
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
  [Footprint](https://modrinth.com/mod/footprint) | Unknown | Server-side mod to keep world size down by not saving all chunks | JowhJy | Server | Might cause a small performance impact (unsaved chunks have to be generated again later)
-
-# Required by other players
-(but not required by server)
-
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
-
 
 # Required by server and players
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
