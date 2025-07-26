@@ -62,10 +62,7 @@ I try my best to keep up to date in the modding communities that may be affected
 
 
 # Licenses
-You are free to fork, modify and take inspiration from Toolkit as long as you follow the terms of Toolkit's [license](LICENSE) as well as [the licenses of all included softwares and projects](COPYING.md).  
-Toolkit is available under the MIT license, which you can read more about [here](LICENSE).
+Toolkit is available under the MIT license, which you can read more about [here](LICENSE). You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).  
 
 Toolkit also includes assets from the following software:  
 - TheUsefulLists: MIT License
-
-You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).
