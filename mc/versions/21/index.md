@@ -3,7 +3,8 @@
 > If you care about performance and efficiency, you should stay on 1.21.4 as long as possible.
 
 > [!NOTE]
-> LuxForge does not have many performance mods for 1.21. You should pick another modloader, such as NeoForge.
+> LuxForge does not have many performance mods for 1.21. You should pick another modloader, such as NeoForge.  
+> For simplicity, only Fabric and NeoForge are counted when writing the status.
 
 | Version | Page |
 | --- | :---: |
