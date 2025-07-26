@@ -66,6 +66,6 @@ You are free to fork, modify and take inspiration from Toolkit as long as you fo
 Toolkit is available under the MIT license, which you can read more about [here](LICENSE).
 
 Toolkit also includes assets from the following software:  
-TheUsefulLists: MIT License
+- TheUsefulLists: MIT License
 
 You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).
