@@ -8,6 +8,7 @@
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | PepperCode1 | Client | Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. Their Forge compatibility is poor, don't use it. |
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | None | Adds a neat little particle effect to leaf blocks | Fourmisain | Client | Has an unofficial [Forge port](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) on CurseForge. This feature might have been added in newer versions of MineCraft. |
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Unknown | Changes most scrollbars in the game to scroll smoothly. | JustAlittleWolf | Client | N/A |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | tr7zw | Client | N/A |
 
 

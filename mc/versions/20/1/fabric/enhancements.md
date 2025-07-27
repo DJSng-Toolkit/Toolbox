@@ -5,7 +5,7 @@
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | PepperCode1 | Client | Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. Their Forge compatibility is poor, don't use it. |
-
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 
 
 # Quality of Life

@@ -1,3 +1,9 @@
+# Visual
+| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
+
+
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |

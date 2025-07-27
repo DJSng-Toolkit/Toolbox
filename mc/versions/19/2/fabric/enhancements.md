@@ -22,6 +22,7 @@
 | [Boosted Brightness](https://modrinth.com/mod/boosted-brightness) | Unknown | Set your brightness beyond default levels. | adamviola | Client | May have incompatibility issues with some video option mods. |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Unknown | Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric. | LambdAurora | Client | Implementation of OptiFine's "Dynamic Lights" feature. If you use shaders, use your shader pack's dedicated option instead. |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | tr7zw | Client | N/A |
 
 
