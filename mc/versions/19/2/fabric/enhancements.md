@@ -22,6 +22,7 @@
 | [Boosted Brightness](https://modrinth.com/mod/boosted-brightness) | Unknown | Set your brightness beyond default levels. | adamviola | Client | May have incompatibility issues with some video option mods. |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Unknown | Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric. | LambdAurora | Client | Implementation of OptiFine's "Dynamic Lights" feature. If you use shaders, use your shader pack's dedicated option instead. |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | tr7zw | Client | N/A |
 
 
@@ -31,7 +32,6 @@
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -40,7 +40,9 @@
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. **On this version, NCR will not let you join servers unless you agree to sign messages. That is your one and only warning that chat reports are enabled..** |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
+| [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A | 
 
 # Vanilla+

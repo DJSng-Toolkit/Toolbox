@@ -10,6 +10,7 @@
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | None | Adds a neat little particle effect to leaf blocks | Fourmisain | Client | Has an unofficial [Forge port](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) on CurseForge. This feature might have been added in newer versions of MineCraft. |
 | [Hide Armour](https://modrinth.com/mod/hide-armour) | Unknown | An ultra-lightweight mod that hides own armor on the client side | flowerinsnow | Client | N/A |
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Unknown | Changes most scrollbars in the game to scroll smoothly. | JustAlittleWolf | Client | N/A |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | tr7zw | Client | N/A |
 
 
@@ -41,6 +42,7 @@
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
 | [Quick Menu](https://modrinth.com/mod/quick-menu) | Unknown | A client-side mod that adds a configurable easy-to-access menu that runs basic repetitive commands. | ImCodist | Client | Also works on 1.21.6 if you use [this PR's artifact build.](https://github.com/tehbeard/quick-menu/actions/runs/16102478533). There is GUI issues with the icon selector and action editor, **use at your own risk**. |
+| [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Resourcify](https://modrinth.com/mod/resourcify) |  Unknown | In-game resource pack, data pack and shader browser and updater. | DeDiamondPro | Client | N/A |
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) |  Unknown | Effortless in-game skin customization and management—change, store, and customize your skins with SkinShuffle. | IMB111 | Install on the server to change skin without reconnecting. [Also has a Paper version](https://modrinth.com/plugin/skinshuffle-bridge). Also install LazyShuffle to use local files. |
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. | 

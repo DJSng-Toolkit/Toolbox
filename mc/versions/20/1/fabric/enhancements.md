@@ -5,7 +5,7 @@
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | PepperCode1 | Client | Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. Their Forge compatibility is poor, don't use it. |
-
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 
 
 # Quality of Life
@@ -18,7 +18,6 @@
 | [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | 
 | [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | 
 | [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) |
-| [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) | 
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -28,8 +27,10 @@
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | 
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
+| [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [World Host](https://modrinth.com/mod/2AIZDfYo) | 
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A | 
 
 # Vanilla+
