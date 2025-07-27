@@ -1,5 +1,7 @@
 > [!WARNING]
-> This section mainly targets Fabric and NeoForge. Forge's support for 1.21.7+ is not the best right now.
+> This section mainly targets Fabric and NeoForge. Forge's support for 1.21+ is poor and has been not counted towards completion status.
+>
+> For 1.21.8 users, you should stick to 1.21.7 UNLESS if you are using an Intel iGPU (HD/UHD Graphics) or an AMD GPU. Most mods have been updated only for 1.21.7. You may be able to force them to work if you force the Minecraft version to 1.21.8.
 
 | Modloader | Performance | Bugfixes | Enhancements |
 | --- | :---: | :---: | :---: |
