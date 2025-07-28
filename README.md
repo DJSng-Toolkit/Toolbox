@@ -1,13 +1,14 @@
-# Toolkit
-> [!NOTE]
-> Toolkit is in early development, it may be lacking or need corrections.  
-> Toolkit is not affiliated, nor endorsed by TUL in any way.   
+# Toolkit: Tools for the Modder's Toolbox
+### A gaming resource created by DJSng about Lists™ and documentation
 
-A project about Lists™ and resources, inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods).
+> [!NOTE]  
+> Toolkit is in early development by a one man team. It may lack information or need corrections.
 
-Toolkit is a project by DJSng inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's continuation TUL, containing personal notes and modding resources mainly based on my own experiences. It is mainly tailored to beginners, but is also meant to be used for general resources for all. Toolkit is stacked with notes based on situations that have happened to me before, in hopes of documenting situations that other users might also be in, as well as being a more curated version of many lists out there.
 
-By default, everything's organized in categories and also comes with emoji labels for mods that have earned their status for being miracle medicine. I've also included some new, early, experimental and what I think is some more obscure stuff that users might also benefit from. The project is mainly based my previous attempts to make a modpack that optimizes Minecraft that I attempted to publish to Curseforge called "Adventurer's Toolkit", which later became the basis for the private no-site modpack DJSng's Toolkit, where the name of the project comes from.
+Inspired by [Alkyaly's Performance Mods list for Minecraft](https://web.archive.org/web/20211201121958/https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88) and it's official continuation [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) (but not affiliated or endorsed by either), Toolkit is a collection of modding resources for a couple of funny video games. While TUL has it's own objectives and purpose, Toolkit is intended to be a personal take on Minecraft mod lists, meant to provide more obscure resources and more personalized documentation. It is based on my own instances to ensure the information is practical, and I have included notes where possible.  
+Please keep in mind that I am a one person team, so all information may be outdated or lacking at times. I'm trying my hardest to stay up to date.
+
+The name "Toolkit" comes from the private modpack "DJSng's Toolkit" by the same author.
 
 ## Disclaimer
 <!-- TUL did this, maybe it's best i do this too. Idk if Kevsky is cool with me pretty much copying his homework though -->
@@ -15,22 +16,26 @@ While I test mods on my own time to the best of my ability to ensure that they a
 
 I try my best to keep up to date in the modding communities that may be affected by malware attacks and similar attacks, such as Minecraft, but I cannot stay up to date *as soon as it happens* because I have a life outside of this guide. Exercise caution and keep up to date with trusted resources and communities.
 
-# Game resources
+# Browse Toolkit
 > [!TIP]
-> You should look at our [Wiki](https://github.com/DJSng106/toolkit/wiki) for more information about mod incompatibilities and unrecommended mods.
+> You should look at our [Wiki](https://github.com/DJSng-Toolkit/Toolkit/wiki) for more information about mod incompatibilities and unrecommended mods.
 
-| Game | Page |
-| --- | --- |
-| Webfishing | [✅ Available, inactive](webfish/README.md) |
-| Minecraft | [🔃 Actively maintained, early WIP](mc/README.md) |
-| ROBLOX | [⚠ Work in Progress, some content is complete](rblx/README.md) |
+| Game | Page | Support status | Completion |
+| --- | --- | --- | --- |
+| Webfishing | [✅ Available](webfish/README.md) | Inactively maintained | ~90% |
+| Minecraft | [🔃 Available](mc/README.md) | Actively maintained | ~30% |
+| ROBLOX | [⚠ Work in Progress](rblx/README.md) | Semi-actively maintained | ~50% |
 
-## Special Thanks
-<!-- hi guys i added all your names now please don't sue me -->
-[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) - Original inspiration, some formatting  
+# Licenses
+Toolkit is available under the MIT license, which you can read more about [here](LICENSE).   
+You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).    
+
+Toolkit also includes assets from the following software:  
+- TheUsefulLists: MIT License
+   - Information, some mods
+   - Formatting of the mod tables
 
 # Guides
-<!-- ugh i need a notes extension so much -->
 > [!NOTE]
 > You still need to read mod descriptions and notes for any incompatibilities.
 
@@ -59,11 +64,3 @@ I try my best to keep up to date in the modding communities that may be affected
 | 🏆 | Greatest Of All Time |
 | ⭐ | "Best of" mod |
 | ✨ | Unique mod |
-
-
-# Licenses
-Toolkit is available under the MIT license, which you can read more about [here](LICENSE).   
-You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).    
-
-Toolkit also includes assets from the following software:  
-- TheUsefulLists: MIT License
