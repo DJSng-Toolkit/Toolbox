@@ -29,14 +29,14 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | Version | Page |
 | --- | --- |
 |  | *Links to page* |
-| 1.21.x | [🔃 One version complete, two Fabric only](versions/21/index.md) |
+| 1.21.x | [🔃 Actively maintained, one version incomplete](versions/21/index.md) |
 | 1.20.x | [⚠ Work in Progress](versions/20/index.md) |
 | 1.19.x | [🚧 Work in Progress](versions/19/index.md) |
 | 1.18.2 | [🚧 Work in Progress](versions/18/2/index.md) |
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
 | 1.16.5 | [🚧 Work in Progress](versions/16/5/index.md) |
 | 1.12.2 | [⚠ Work in Progress](versions/12/2/index.md) |
-| 1.8.9 | [🚧 Work in Progress](versions/8/9/index.md) |
+| 1.8.9 | [✅ Forge only](versions/8/9/index.md) |
 | 1.7.10 | [✅ Forge only](versions/7/10/index.md) |
 | 1.6.4 | [✅ Available](versions/6/4/index.md) |
 | 1.5.2 | [✅ Available](versions/5/2/index.md) |

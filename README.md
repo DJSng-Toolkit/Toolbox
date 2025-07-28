@@ -62,7 +62,8 @@ I try my best to keep up to date in the modding communities that may be affected
 
 
 # Licenses
-Toolkit is available under the MIT license, which you can read more about [here](LICENSE). You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).  
+Toolkit is available under the MIT license, which you can read more about [here](LICENSE).   
+You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).    
 
 Toolkit also includes assets from the following software:  
 - TheUsefulLists: MIT License
