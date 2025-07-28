@@ -8,6 +8,7 @@
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [Chat Impressive Animation](https://modrinth.com/mod/DnL1AGAI) |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | PepperCode1 | Client | Their forge port ""exists"" but it functions with Sinytra Connector. AKA, **it's buggy, don't use it.** Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. |
+| [What I'm Pressing](https://modrinth.com/mod/whatimpressing) | Unknown | A mod have configurable keystrokes | LouisQuepierts | Client | N/A |
 
 
 
