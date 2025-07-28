@@ -49,7 +49,7 @@
 | [FastEvent](https://modrinth.com/mod/LauZQ6kM) | 
 | [Krypton FNP](https://modrinth.com/mod/JkxWVYwU) | Unknown | | | Both | I'm not sure if this actually does anythiung without Krypton. But I can't find a Krypton fork for this setup. |
 | [Lag Optimizer](https://www.curseforge.com/projects/1294813) | 
-| [NoShade](https://modrinth.com/mod/no-shade) | 
+| [NoShade](https://modrinth.com/mod/no-shade) | Unknown | | | Client | Redundant if you have Xenon installed. |
 | [Smooth Boot \(Reloaded\)](https://modrinth.com/mod/z53V2L4P) | 
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
