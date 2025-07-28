@@ -47,7 +47,7 @@
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Resourcify](https://modrinth.com/mod/resourcify) |  Unknown | In-game resource pack, data pack and shader browser and updater. | DeDiamondPro | Client | N/A |
 | [SkinShuffle](https://modrinth.com/mod/skinshuffle) |  Unknown | Effortless in-game skin customization and management—change, store, and customize your skins with SkinShuffle. | IMB111 | Both (Optional) |  Install on the server to change skin without reconnecting. [Also has a Paper version](https://modrinth.com/plugin/skinshuffle-bridge). Also install LazyShuffle to use local files. |
-| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | C2ME causes issues in some cases when installed. Additionally, the last 1-2 Minecraft versions are the only currently supported versions, so make sure to update before you send a bug report. Very cursed, but very helpful. | 
+| [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | C2ME [^2] | Minecraft Fabric mod which allows you to join EVERY Minecraft server version  | FlorianMichael | Client | Only supports the most recent Minecraft version. No backports. |
 | [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Gaming23 | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
@@ -86,3 +86,5 @@ Beware!
 
 
 [^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+
+[^2]: C2ME causes issues in some cases when installed. If you cannot move or something doesn't appear, try disabling it first.
