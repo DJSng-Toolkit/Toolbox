@@ -37,12 +37,6 @@
 | [World Host](https://modrinth.com/mod/2AIZDfYo) | 
 | [Xaero's World Map](https://www.curseforge.com/projects/317780) | 
 
-# Vanilla+
-(for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) | Unknown | An unofficial port of Presence Footsteps from Fabric to Forge. | Paint_Ninja | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. **1.16.5 is incomplete and missing some features.** Click [here](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge/files/3156583) to learn more. |
-
 # Required by other players
 (but not required by server)
 
