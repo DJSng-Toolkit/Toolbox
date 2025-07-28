@@ -5,7 +5,7 @@
 | [APTweaks: Spawn](https://modrinth.com/mod/217PsbJI) |
 | [Better Fps - Render Distance](https://www.curseforge.com/projects/551520) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
-| [Embeddium](https://modrinth.com/mod/embeddium) | Unknown | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
+| [Embeddium](https://modrinth.com/mod/embeddium) | Other Sodium ports | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | malte0811 | Both | N/A |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Mr. Toad | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | RaphiMC | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
@@ -16,6 +16,7 @@
 | [Radium](https://modrinth.com/mod/2gvRmQXx) | 
 | [Redirected](https://modrinth.com/mod/redirected) | Redirector |
 | [Redirector](https://modrinth.com/mod/nzRWPE5v) | Redirected | 
+| [Xenon](https://modrinth.com/mod/xenon-forge) | Other Sodium ports |  A Forge port of the Sodium performance mod. | Txni | Client | Based on Embeddium. |
 
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
