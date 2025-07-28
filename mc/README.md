@@ -36,7 +36,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 | 1.17.1 | [🚧 Work in Progress](versions/17/1/index.md) |
 | 1.16.5 | [🚧 Work in Progress](versions/16/5/index.md) |
 | 1.12.2 | [⚠ Work in Progress](versions/12/2/index.md) |
-| 1.8.9 | [🚧 Work in Progress](versions/8/9/index.md) |
+| 1.8.9 | [✅ Forge only](versions/8/9/index.md) |
 | 1.7.10 | [✅ Forge only](versions/7/10/index.md) |
 | 1.6.4 | [✅ Available](versions/6/4/index.md) |
 | 1.5.2 | [✅ Available](versions/5/2/index.md) |

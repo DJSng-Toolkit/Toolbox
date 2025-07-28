@@ -1,7 +1,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Resource Pack Organizer](https://modrinth.com/mod/resource-pack-organizer) | Unknown |  Enhances the Resource Pack menu by adding folder support for easier pack organization
+| [Resource Pack Organizer](https://modrinth.com/mod/resource-pack-organizer) | Unknown |  Enhances the Resource Pack menu by adding folder support for easier pack organization | chylex | Client | N/A |
 
 # Integration
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
