@@ -3,6 +3,7 @@
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
+| [Armor Visibility](https://modrinth.com/mod/armor-visibility) | None | Let that skin show! | Trikzon | Client | Toggle with "V" by default, rebindable. Mod config lets you also show elytra, and hide it on mobs (bad idea) too. |
 | [Beautified Chat Client](https://modrinth.com/mod/mtIxmNw5) | 
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
 | [Chat Impressive Animation](https://modrinth.com/mod/DnL1AGAI) |
