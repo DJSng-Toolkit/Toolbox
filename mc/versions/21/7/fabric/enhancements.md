@@ -20,7 +20,7 @@
 | --- | :---: | :---: | :---: | :---: |
 | [Better "Add Server"](https://modrinth.com/mod/betteraddserver) | Unknown | Some small quality of life changes for the "add server" menu | Client | N/A |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
-| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | - | - | - |
+| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | - | - | - |- | - | - |
 | [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) | Unknown | Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Crash Assistant](https://modrinth.com/mod/crash-assistant) | Unknown | Shows a GUI after Minecraft crashes, immediately showing all affected logs. | Client | Good for beginners. |
