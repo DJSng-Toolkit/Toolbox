@@ -1,8 +1,8 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [CrashPatch](https://modrinth.com/mod/crashpatch) | Unknown | Stop crashes from closing your game! | Polyfrost | Client | Port of VanillaFix's crash features to 1.8. |
-| [Optibye](https://modrinth.com/mod/optibye) | None | Stops Optifine from logging certain messages that are deemed as not useful. | ThatGravyBoat | Client | N/A |
+| [CrashPatch](https://modrinth.com/mod/crashpatch) | Unknown | Stop crashes from closing your game! | Client | Port of VanillaFix's crash features to 1.8. |
+| [Optibye](https://modrinth.com/mod/optibye) | None | Stops Optifine from logging certain messages that are deemed as not useful. | Client | N/A |
 
 
 # Situational

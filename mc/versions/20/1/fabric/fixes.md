@@ -1,7 +1,7 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | MehVahdJukaar | Client | N/A |
+| [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | Client | N/A |
 | [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) |  - | - | - | - |
 
 # Situational

@@ -2,7 +2,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [CrashExploitFixer](https://modrinth.com/mod/Z5GdSH3X) |  - | - | - | - |
-| [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | MehVahdJukaar | Client | N/A |
+| [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | Client | N/A |
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |

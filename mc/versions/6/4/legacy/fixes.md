@@ -1,7 +1,7 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Legacy (Fabric) Fixes](https://modrinth.com/mod/legacy-fabric-fixes) | Unknown | Fixes inconsistencies for legacy versions of Minecraft. | Legacy Fabric | Client | Comes pre-installed, I think. Adds the "Legacy Fabric" branding to pre-1.9 versions, so you can tell if it actually loaded. |
+| [Legacy (Fabric) Fixes](https://modrinth.com/mod/legacy-fabric-fixes) | Unknown | Fixes inconsistencies for legacy versions of Minecraft. | Client | Comes pre-installed, I think. Adds the "Legacy Fabric" branding to pre-1.9 versions, so you can tell if it actually loaded. |
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
@@ -12,5 +12,5 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [LegacyCrashFix](https://github.com/tildejustin/legacy-crash-fix) | Unknown | fixes TickNextTick list out of synch error | tildejustin | Unknown | N/A |
-| [Legacy Input Patch](https://modrinth.com/mod/legacyinputpatch) | Unknown | A mixin patch like InputFix that lets players input multi-byte characters (like Chinese, Korean and Japanese) ingame for Legacy Fabric. | HowardZHY | Both (Independant) | Required on server on pre-1.6 to fix signs. |
+| [Legacy Input Patch](https://modrinth.com/mod/legacyinputpatch) | Unknown | A mixin patch like InputFix that lets players input multi-byte characters (like Chinese, Korean and Japanese) ingame for Legacy Fabric. | Both (Independant) | Required on server on pre-1.6 to fix signs. |
 | [TabFocus](https://github.com/RedLime/TabFocus) | Unknown | Tab to change the selected button, like 1.9+. | RedLime | Client | Mods need to implement it on a per-mod basis, I think. meant for 1.8 and below. |

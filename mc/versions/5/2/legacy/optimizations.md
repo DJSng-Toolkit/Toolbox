@@ -4,10 +4,10 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [FPS Plus Legacy Fabric](https://modrinth.com/mod/fpspluslf) | Unknown | Legacy Fabric Port of FPS Plus using mixin. | HowardZHY | Client | N/A | 
+| [FPS Plus Legacy Fabric](https://modrinth.com/mod/fpspluslf) | Unknown | Legacy Fabric Port of FPS Plus using mixin. | Client | N/A | 
 | [Legacy OptiFabric](https://modrinth.com/mod/legacy-optifabric) | Unknown |  OptiFabric for Legacy Fabric (1.3.1 to 1.13.2) and Ornithe (b1.7.3 to 1.14.4) | tildejustin | Client | No longer
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Dynamic Menu FPS](https://github.com/Minecraft-Java-Edition-Speedrunning/dynamic-fps) | Unknown | Improve performance when Minecraft is in the background  | tildejustin | Client | N/A |
+| [Dynamic Menu FPS](https://github.com/Minecraft-Java-Edition-Speedrunning/dynamic-fps) | Unknown | Improve performance when Minecraft is in the background  | Client | N/A |
