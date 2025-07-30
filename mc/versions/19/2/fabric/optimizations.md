@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | None | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | N/A |
 | [Cull Less Leaves](https://modrinth.com/mod/qthuEuVy) | Unknown | Cull leaves while looking hot! | isxander | Client | Alternative for Cull Leaves that lets you keep more of the inside leaves |
@@ -15,7 +15,7 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | 
 | [DashLoader](https://discord.gg/VeFTrtCkrb) | 
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | isxander | Both | This is mainly a bugfix mod, but some mods such as ForgetMeChunk and Entity Collision FPS Fix are included in this mod, so it counts. |
@@ -28,11 +28,11 @@
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Cull Clouds | Unknown | 
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | astei | Both | N/A |
 
 # Possible snake oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus) | Unknown |

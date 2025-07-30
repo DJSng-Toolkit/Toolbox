@@ -1,6 +1,6 @@
 # Visual
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Boosted Brightness](https://modrinth.com/mod/boosted-brightness) | Unknown | Set your brightness beyond default levels. | adamviola | Client | May have incompatibility issues with some video option mods. |
@@ -9,7 +9,7 @@
 
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Night Vision Flash Be Gone!](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | I got fed up with the flash that happens when night vision is about to end, so I wrote a quick mod that removes that entirely. | AshIndigo | Client | Might cause conflicts with other mods. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
@@ -17,7 +17,7 @@
 
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [JEI](https://modrinth.com/mod/jei) | Unknown | JEI - View Items and Recipes | mezz | Client | Install on the server to unlock a few cheat related features. |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |

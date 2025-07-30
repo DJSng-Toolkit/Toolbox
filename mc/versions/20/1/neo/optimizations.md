@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [APTweaks: Core](https://modrinth.com/mod/L5xaBiBb) |
 | [APTweaks: Spawn](https://modrinth.com/mod/217PsbJI) |
 | [Better Fps - Render Distance](https://www.curseforge.com/projects/551520) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
@@ -20,7 +20,7 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Best effective on the Server side, likely an edge case on Client. |
 | [AchievementOptimizer](https://modrinth.com/mod/SvXrP8rT) |
 | [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | OptiFine | Async particle tick/rendering | Harvey_Husky | Client | Disables some of Particle Core's optimizations when installed. |
@@ -44,7 +44,7 @@
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 | [FastEvent](https://modrinth.com/mod/LauZQ6kM) | 
 | [Krypton FNP](https://modrinth.com/mod/JkxWVYwU) | Unknown | | | Both | I'm not sure if this actually does anythiung without Krypton. But I can't find a Krypton fork for this setup. |
@@ -55,6 +55,6 @@
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Clear GPU Cache](https://modrinth.com/mod/n5y9HLWd) | 
 | [Flerovium](https://modrinth.com/mod/4Rh1Mobu) | 

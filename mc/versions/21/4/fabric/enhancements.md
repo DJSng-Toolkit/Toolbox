@@ -1,6 +1,6 @@
 # Visual
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | None | Let that skin show! | Trikzon | Client | Toggle with "V" by default, rebindable. Mod config lets you also show elytra, and hide it on mobs (bad idea) too. |
@@ -13,7 +13,7 @@
 
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Better "Add Server"](https://modrinth.com/mod/betteraddserver) | Unknown | Some small quality of life changes for the "add server" menu | Player005 | Client | N/A |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
 | [ChatNotify](https://modrinth.com/mod/Iudurxl8) | Unknown | 
@@ -31,7 +31,7 @@
 
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Snownee | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
 | [My Resource Pack, My Choice](https://modrinth.com/mod/my-resource-pack) | Unknown | Allows you to skip, block and disable certain server resources and to move or ignore and remove it completely | MrKinau | Client | Maybe be very careful using this. |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
@@ -48,7 +48,7 @@
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Sollace | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
 # Dangerous mods
@@ -56,7 +56,7 @@ These mods do things that either could get you banned from some servers, could h
 Beware!
 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | hashalite | Client | Beware, some servers can ban you for using this mod. |
 
 

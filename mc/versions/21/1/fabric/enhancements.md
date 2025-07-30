@@ -1,6 +1,6 @@
 # Visual
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Servers that use custom chat plugins [^1] | See who you're chatting with! | dzwdz | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
@@ -9,7 +9,7 @@
 
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | fishstiz | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Darkhax | Client | N/A |

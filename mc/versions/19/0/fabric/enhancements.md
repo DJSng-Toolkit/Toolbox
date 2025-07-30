@@ -1,6 +1,6 @@
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | Since there's no chat reports on 1.19.0, this mods only removes the message signatures, which might reduce your chance of getting tracked to your Microsoft account. |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 

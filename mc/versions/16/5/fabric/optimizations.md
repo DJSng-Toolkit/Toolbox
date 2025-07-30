@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric) | Unknown | This mod increases fps by not rendering particles that the player can't see, the effect is especially dramatic in the ocean. | tfarecnim | Client | N/A |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Unknown | Memory usage optimizations | malte0811 | Both | N/A |
@@ -11,5 +11,5 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Hydrogen](https://modrinth.com/mod/hydrogen/versions) | Unknown | Reduces the memory usage of the game in more modded scenarios | CaffeineMC | Both | Deprecated by the official author. May be incompatible with **FerriteCore** |

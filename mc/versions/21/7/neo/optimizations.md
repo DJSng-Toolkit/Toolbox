@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Unknown | Memory usage optimizations | malte0811 | Both | N/A |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | RaphiMC | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
@@ -15,9 +15,9 @@
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |

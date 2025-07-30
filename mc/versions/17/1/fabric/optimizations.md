@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | None | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | N/A |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
@@ -12,7 +12,7 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | 
 | [FPS Reducer](https://modrinth.com/mod/fps-reducer) |  Unknown | Reduce GPU and CPU usage automatically when no user operation exists. | bre2ei | Client | Similar to Dynamic FPS but also has support for older versions (pre-1.14). |
 | [Hydrogen](https://modrinth.com/mod/hydrogen/versions) | Unknown | Reduces the memory usage of the game in more modded scenarios | CaffeineMC | Both | Deprecated by the official author. May be incompatible with **FerriteCore** |

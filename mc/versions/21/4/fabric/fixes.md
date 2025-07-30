@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | isxander | Both | Also handles some performance optimizations on some versions |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | MehVahdJukaar | Client | N/A |
 | [Nether Portal Fix](https://modrinth.com/mod/netherportalfix) | None | Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer. | BlayTheNinth | Server | Also works for the integrated server (Singleplayer / LAN) |
@@ -9,13 +9,13 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [PacketFixer](https://modrinth.com/mod/c7m1mi73) | Unknown |  A simple mod to fix various problems with packets and nbt. | Tonimatas | Both | Mainly about packet issues with byte sizes. i.e: Packet Too Big |
 | [XXLPackets](https://modrinth.com/mod/SeCuopwJ) | Unknown |  XXL Packets is a fork of XL Packets which raises the packet size limit from 2MB to the Java Integer limit | Lazurline | Both | Same thing as PacketFixer's "Packet too big" fix. I'm not sure if they conflict. |
 
 # Edge Case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Language Reload](https://modrinth.com/mod/uLbm7CG6) | Unknown |  Reduces load times and adds fallbacks for languages | Jerozgen | Client | *Very* strong edge case, just makes language changes faster. |
 | [NoTextureRotations](https://modrinth.com/mod/h4ktIYQ8) | Unknown |  Prevent Block Texture Rotations | rfresh2 | Client | Intended for players on SMPs where PvP is allowed without consent and/or rampant. Very situational mod that prevents coordinate guessing exploits that affect all versions. For a normal user this might not be big, but for anybody who plays on servers where anything could come for you and overanalyze your screenshots, this mod might be important to reduce chances of screenshotss being used to find your base. Not at 0, of course. |
 | [ResourcePackCached](https://modrinth.com/mod/d4phKsx2) | Unknown |  Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Furq | Client | N/A |

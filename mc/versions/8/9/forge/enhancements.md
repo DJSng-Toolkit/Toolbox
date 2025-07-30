@@ -1,6 +1,6 @@
 # Visual
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes) | Unknown | A revamp of the original Keystrokes mod from Canelex | Polyfrost | Client | N/A |
 | [ColorSaturation](https://modrinth.com/mod/colorsaturation) | Unknown | Simple color saturation mod for 1.8.9 | Polyfrost | Client | N/A |
 | [DamageTint](https://modrinth.com/mod/damagetint) | Unknown | Changes the color of entities that are hurt. | Polyfrost | Client | N/A |
@@ -18,13 +18,13 @@
 
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Resource Pack Organizer](https://modrinth.com/mod/resource-pack-organizer) | Unknown |  Enhances the Resource Pack menu by adding folder support for easier pack organization | chylex | Client | N/A |
 | [SkyClientCosmetics](https://modrinth.com/mod/scc) | Unknown | Cosmetics and visual customization mod for SkyClient | SkyClient | Client | Intended for use on SkyClient, btu can also be installed on regular configs. |
 
 # Integration
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Chatting](https://modrinth.com/mod/chatting) | Unknown | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | Polyfrost | Client | OneConfig port of Chatting. |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Unknown | Hypixel-focused Quality of Life mod. | Polyfrost | Client | N/A |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
@@ -38,5 +38,5 @@ These mods do things that either could get you banned from some servers, could h
 Beware!
 
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [BehindYouV3](https://modrinth.com/mod/behindyou) | Unknown | A modern, non-2018 take on the BehindYou mod. | Polyfrost | Client | Banned by many minigame servers, including Hypixel. |

@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
 | [Cull Particles MultiLoader](https://modrinth.com/mod/cull-particles-multiloader) | Unknown | MultiLoader particle culling mod to improve performance | commander | Client | Fork of [a mod of a similar name](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric)  |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
@@ -15,7 +15,7 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Async](https://modrinth.com/mod/async) | Moonrise, Cupboard | Async is a Fabric mod designed to improve the performance of entities by processing them in parallel threads. | AxalotLDev | Server | Based on MCMTFabric / JMT-MCMT. | 
 | [AsyncParticles](https://modrinth.com/mod/asyncparticles) | OptiFine | Async particle tick/rendering | Harvey_Husky | Client | Disables some of Particle Core's optimizations when installed. |
 | [BetterBeds](https://modrinth.com/mod/better-beds) | None | Changes the renderer of the bed to use json models instead of a block entity renderer! | Motschen | Client | Incompatible with Bedspreads. |
@@ -32,7 +32,7 @@
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | astei | Both | N/A |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Jerozgen | Client | N/A
@@ -45,13 +45,13 @@
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Reflex AntiLag](https://modrinth.com/mod/reflex-antilag) | Unknown | Implementing Nvidia reflex in Minecraft to reduce latency | Tythee | Both | Requires a GTX 9XX or later. Very lightly tested, with no benchmarks. Use with caution. |
 | [RenderScale](https://modrinth.com/mod/renderscale) | Iris + Distant Horizions [^2] | Allows you to change Minecraft's render resolution separately from the HUD elements | zolo101 | Client | May cause lower performance, I haven't tested. Will definitely make your game look bad. Fork of ResolutionControl++. |
 
 # Snake Oil / Gimmick
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | Throw away display updates your monitor can't process for more FPS | notahero04 | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see. Enable VSync if you experience stutters and/or high GPU usage. |
 
 

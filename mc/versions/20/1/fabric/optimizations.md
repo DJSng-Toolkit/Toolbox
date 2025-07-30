@@ -1,6 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
 | [Embeddium](https://modrinth.com/mod/embeddium) | Unknown | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | malte0811 | Both | N/A |
@@ -13,7 +13,7 @@
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | None | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | N/A |
 | [Cull Less Leaves](https://modrinth.com/mod/qthuEuVy) | Unknown | Cull leaves while looking hot! | isxander | Client | Alternative for Cull Leaves that lets you keep more of the inside leaves |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | isxander | Both | This is mainly a bugfix mod, but some mods such as ForgetMeChunk and Entity Collision FPS Fix are included in this mod, so it counts. |
@@ -24,7 +24,7 @@
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | astei | Both | N/A |
 | [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | jaredIII08 | Client | Might be redundant. The biggest effect will be on text heavy scenarios. |
@@ -32,7 +32,7 @@
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 
 <!-- TODO: 1.20.1 --  add from this list
 | [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | 
