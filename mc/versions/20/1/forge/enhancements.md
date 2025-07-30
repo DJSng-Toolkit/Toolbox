@@ -1,7 +1,6 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Immersive Tips](https://modrinth.com/mod/immersive-tips) | Unknown | Adds rich-text tips to the loading screen and items, crowdsourced and updated automatically. | Txni | Client | Some tips are user suggested. |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [Recursive Resources Forge](https://www.curseforge.com/minecraft/mc-mods/recursive-resources-forge) | Unknown | This is a Forge port of the Fabric-only mod | Darimus | Client | N/A |

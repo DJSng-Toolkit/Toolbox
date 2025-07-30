@@ -10,7 +10,6 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Immersive Tips](https://modrinth.com/mod/immersive-tips) | Unknown | Adds rich-text tips to the loading screen and items, crowdsourced and updated automatically. | Txni | Client | Some tips are user suggested. |
 | [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | fishstiz | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Darkhax | Client | N/A |

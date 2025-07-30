@@ -24,7 +24,6 @@
 # Integration 
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Immersive Tips](https://modrinth.com/mod/immersive-tips) | Unknown | Adds rich-text tips to the loading screen and items, crowdsourced and updated automatically. | Txni | Client | Some tips are user suggested. I tried this on Neoforge 1.20.1 in a modded environment and experienced crashes, beware. |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | 
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
