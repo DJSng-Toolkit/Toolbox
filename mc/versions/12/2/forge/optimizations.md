@@ -13,7 +13,7 @@
 # Situational
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Best effective on the Server side, likely an edge case on Client. |
+| [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Redundant with [UniversalTweaks](https://modrinth.com/mod/universal-tweaks). Best effective on the Server side, likely an edge case on Client. |
 | [Phosphor Lighting Engine](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | UAlfheim | No-compromises lighting engine optimization mod | CaffeineMC | Both | Requires [this forge version](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) or another backwards compatible port on 1.12. Not as effective as Starlight. |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Considered *very* dangerous by some modders. |
 
