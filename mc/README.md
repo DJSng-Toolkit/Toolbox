@@ -1,20 +1,22 @@
 # Toolkit: Minecraft
 > [!WARNING]
 > 
-> Some mods are obscure and not well documented. Using these mods should be fine, but note that
-> they are not actively tested, nor known to some. The effect will vary from user to user.  
-> Some of these mods may also be "snake oil" and may end up impacting you worse by using it than not using it.
-> Use these mods with caution.
->
-> You should benchmark your framerate after adding/removing key performance mods if you care about performance differences.   
-> This list is mostly curated based on my personal experience. **YMMV**. 
+> Toolkit is constantly being updated and may contain documentation
+> that is inaccurate, untested, or otherwise irrelevant. YMMV.
+> I have attempted to label mods that may do nothing for users best I can. You should still
+> benchmark your shit in between changes.
 
-A bunch of mods for Minecraft. Inspired by TheUsefulLists (but not affiliated), with my own curated list of optimizations. Also has other non-mod resources like [UsefulMinecraft](https://github.com/TheUsefulLists/UsefulMinecraft).  
+A maximalist approach on [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) with a bunch of tools, mods, websites and other utilities, all personally curated with better compatibility notes, and specific sub-version mod configs. **This is not a replacement for existing lists**, you should still turn to other lists to back up sources.  
 Remember to view the [main branch README](../README.md) for icon meaning.  
- 
-This section is mostly just based on mods I'm familiar with for performance in addition to some stuff also featured on TUL and some other mods I've also heard of. In addition to basic performance and bugfixes, my "enhancements" list includes a mix of Vanilla (like TUL) and Vanilla+ utilities. I am also considering a "Recommendations" section for some popular community suggestions.
 
-## Disclaimer
+Toolkit is mainly based on personal experience. I 
+
+## Why?
+A lot of lists are very similiar nowadays, it can make sense why it can feel like just *another* list. There's many choices, with TheUsefulLists being a general "go-to" and a lot of TUL inspired lists covering their tracks.  
+However, I also wanted to take a shot. I struggle a lot with my own notes, and I've had my fair share of modding oppertunities where I just completely forgot some mods are incompatible. Plus, I play with a lot of scenario specific mods and find out about incompatibilities from mod developers that I don't find out until last minute. So, I wanted to make a TheUsefulLists adjacent project with a bit more documentation.  
+And then Toolkit was born.
+
+# Disclaimer
 Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
 
 # General Resources
