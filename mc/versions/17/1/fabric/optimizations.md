@@ -13,7 +13,6 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | 
 | [FPS Reducer](https://modrinth.com/mod/fps-reducer) |  Unknown | Reduce GPU and CPU usage automatically when no user operation exists. | Client | Similar to Dynamic FPS but also has support for older versions (pre-1.14). |
 | [Hydrogen](https://modrinth.com/mod/hydrogen/versions) | Unknown | Reduces the memory usage of the game in more modded scenarios | Both | Deprecated by the official author. May be incompatible with **FerriteCore** |

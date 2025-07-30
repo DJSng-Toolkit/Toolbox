@@ -21,7 +21,6 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | Both | Best effective on the Server side, likely an edge case on Client. |
 | [AchievementOptimizer](https://modrinth.com/mod/SvXrP8rT) | - | - | - | - |
 | [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | OptiFine | Async particle tick/rendering | Client | Disables some of Particle Core's optimizations when installed. |

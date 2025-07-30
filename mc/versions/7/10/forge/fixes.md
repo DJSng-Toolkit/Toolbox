@@ -10,7 +10,6 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [BugTorch](https://modrinth.com/mod/bugtorch) | Unknown | Bug fixes and optimizations for Vanilla 1.7.10 and a few mods. | Both (Independant) | Performance benefits might not scale as big. |
 | [Hodgepodge](https://modrinth.com/mod/hodgepodge) | Unknown | A Hodgepodge of Fixes | Both | N/A |
 

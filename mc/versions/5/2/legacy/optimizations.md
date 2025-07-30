@@ -10,5 +10,4 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Dynamic Menu FPS](https://github.com/Minecraft-Java-Edition-Speedrunning/dynamic-fps) | Unknown | Improve performance when Minecraft is in the background  | Client | N/A |

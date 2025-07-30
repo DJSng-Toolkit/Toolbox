@@ -6,7 +6,6 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Achievement Fix](https://modrinth.com/mod/achievement-fix) | Unknown | fixes broken achievements / advancements on various versions of the game | tildejustin | Server | pre-1.3 is for Ornithe, not Legacy Fabric. 1.13 needs Legacy Fabric v2 Intermediaries. |
 
 # Edge case

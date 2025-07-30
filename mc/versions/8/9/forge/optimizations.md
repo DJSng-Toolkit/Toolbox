@@ -8,5 +8,4 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Phosphor Legacy Forge](https://modrinth.com/mod/phosphorlegacyforge) | Unknown | Unofficial fork of Phosphor mod ported to Legacy Forge. | Both | There is no Starlight fork. If there was a starlight fork, I'd put it here instead. |

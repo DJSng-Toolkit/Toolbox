@@ -7,6 +7,5 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Async Locator](https://modrinth.com/mod/rkN8aqci) | - | - | - | - |
 | [Log Begone](https://www.curseforge.com/projects/623560) |  - | - | - | - |

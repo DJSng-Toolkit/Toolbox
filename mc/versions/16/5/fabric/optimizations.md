@@ -12,5 +12,4 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Hydrogen](https://modrinth.com/mod/hydrogen/versions) | Unknown | Reduces the memory usage of the game in more modded scenarios | Both | Deprecated by the official author. May be incompatible with **FerriteCore** |

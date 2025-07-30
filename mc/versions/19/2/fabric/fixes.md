@@ -10,6 +10,5 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 | [Blanket](https://modrinth.com/mod/blanket) | Unknown | Minecraft Client-fixes/tweaks | Client | Requires [Carpet](https://modrinth.com/mod/carpet). Implements a fix for chat lag like Debugify does. |
 | [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) | Unknown | Log Begone is a fork of Shut Up Console by Bravarly that simply allows you to remove annoying logs from your log when you remove structures, biomes, blocks, or items that spam your log saying missing. | AzureDoomC | Both | Some lists have this as a performance mod, but I don't really notice a difference. |

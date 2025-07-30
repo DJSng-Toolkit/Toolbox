@@ -6,7 +6,6 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| --- | :---: | :---: | :---: | :---: |
 
 # Edge Case
 | Name | Incompatibilities | Description | Client / Server | Notes |
