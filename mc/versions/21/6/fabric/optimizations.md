@@ -39,12 +39,12 @@
 | [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | Improves play experience on large multiplayer servers. | Noxcrew | Client | Mainly meant for use on MCC Island. Will be an unnecessary add for 90% of users. Also included on Lunar Client. |
 | [sepals](https://modrinth.com/mod/sepals) | None | An extremely radical and experimental optimization for Minecraft server performances. | cao-awa | Server | N/A |
 | [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | VesMaybeVesper | Client | Fork of Bedrodium that culls more than just bedrock. |
-| [ThreatenGL](https://modrinth.com/mod/threatengl) | Unknown | Threatens Minecraft to use modern versions of OpenGL | Richy-Z | Client | Just changes the OpenGL version from 3.2 to 4.6 (or 4.1 on Mac). YMMV. Require a card from 2012 or later. |
 
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [RenderScale](https://modrinth.com/mod/renderscale) | Iris + Distant Horizions [^2] | Allows you to change Minecraft's render resolution separately from the HUD elements | zolo101 | Client | May cause lower performance, I haven't tested. Will definitely make your game look bad. Fork of ResolutionControl++. |
+| [ThreatenGL](https://modrinth.com/mod/threatengl) | Unknown | Threatens Minecraft to use modern versions of OpenGL | Richy-Z | Client | Just changes the OpenGL version from 3.2 to 4.6 (or 4.1 on Mac). Require a card from 2012 or later. |
 
 # Snake Oil / Gimmick
 | Name | Incompatibilities | Description | Author | Client / Server | Notes |
