@@ -10,6 +10,7 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [PacketFixer](https://modrinth.com/mod/c7m1mi73) | Unknown |  A simple mod to fix various problems with packets and nbt. | Both | Mainly about packet issues with byte sizes. i.e: Packet Too Big |
 [XXLPackets](https://modrinth.com/mod/SeCuopwJ) | Unknown |  XXL Packets is a fork of XL Packets which raises the packet size limit from 2MB to the Java Integer limit | Both | Same thing as PacketFixer's "Packet too big" fix. I'm not sure if they conflict. |
 

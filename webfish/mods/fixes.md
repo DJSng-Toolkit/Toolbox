@@ -7,6 +7,7 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [NoNameFix](https://thunderstore.io/c/webfishing/p/toes/NoNameFix/) | None | Hotfix for annoying no-name chat bug | Toes & Balls | Client | N/A |
 | [BorderlessFix](fishing/p/dragonostic/BorderlessFix/) | None | A patch that fixes the "Windowed Borderless" fullscreen setting so that you can easily tab out or drag other windows over the game | dragonostic | Client | N/A |
 | [NoAccessoryLimit](https://thunderstore.io/c/webfishing/p/DreamwalkerSisyphe/NoAccessoryLimit/) | None | Remove or set a custom limit for how many accessories can be equipped at once | DreamwalkerSisyphe | Client | Should be safe for use on public servers. Changes replicate server-side but it's a Client mod |

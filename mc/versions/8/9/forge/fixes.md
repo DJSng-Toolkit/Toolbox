@@ -8,4 +8,5 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | [ClientSideSounds](https://modrinth.com/mod/client-side-sounds) | Unknown | A mod for 1.8.9 that removes the delay of block place sounds when you have high ping. | LetsGoAway | Client | Unnecessary on low ping clients and/or users with good internet. |

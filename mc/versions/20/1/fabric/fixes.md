@@ -7,6 +7,7 @@
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 
 <!-- TODO: 1.20.1 --  add from this list for fabric
 - [Debugify](https://isxander.dev)
