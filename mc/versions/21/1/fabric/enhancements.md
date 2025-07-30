@@ -10,7 +10,7 @@
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | fishstiz | Client | N/A |
+| [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Client | N/A |
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Client | Replacement for "Keystrokes" in most Client Launchers |

@@ -9,7 +9,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Nerjal_Nosk | Both | Also removes recipe toasts and telemetry. |
+| [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Both | Also removes recipe toasts and telemetry. |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Client | N/A |
 | [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Client | N/A |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
