@@ -12,7 +12,7 @@
 | [lazyyyyy](https://modrinth.com/mod/lazyyyyy) |  - | - | - | - |
 | [Modernfix](https://modrinth.com/mod/nmDcB62a) | None | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. | Both | 1.21.5+ builds can be obtained from Simply Optimized. |
 | [Moonlit Performance Enhancement Module](https://modrinth.com/mod/mpem) | 
-| [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | fzzyhmstrs | Client | N/A |
+| [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | Client | N/A |
 | [Radium](https://modrinth.com/mod/2gvRmQXx) | - | - | - | - |
 | [Redirected](https://modrinth.com/mod/redirected) | Redirector | - | - | - |
 | [Redirector](https://modrinth.com/mod/nzRWPE5v) | Redirected |  - | - | - |

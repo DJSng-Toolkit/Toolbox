@@ -10,7 +10,7 @@
 | [Modernfix](https://modrinth.com/mod/modernfix) | None | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. | Both | 1.21.5+ builds can be obtained from Simply Optimized. |
 | [Moonrise](https://modrinth.com/mod/moonrise-opt) | C2ME, ScalableLux, Async | Optimisation mod for the dedicated/integrated server. | Server | Ports some of PaperMC's server patches. Also works on Singleplayer / LAN servers if the host has the mod. My testing with this mod has been pretty spotty before, YMMV. |
 | [Nvidium](https://github.com/drouarb/nvidium) [^1] | VulkanMod, Non-Sodium rendering engines | Fast nvidia only rendering engine for sodium | Client | For GTX 16XX and RTX cards only. If the game crashes more often mid-game, remove this mod. |
-| [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | fzzyhmstrs | Client | N/A |
+| [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | Client | N/A |
 | [Sodium](https://modrinth.com/mod/sodium) | VulkanMod | The fastest rendering optimization mod for Minecraft. | Client | N/A |
 
 # Situational
@@ -36,8 +36,8 @@
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A
-| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | Improves play experience on large multiplayer servers. | Noxcrew | Client | Mainly meant for use on MCC Island. Will be an unnecessary add for 90% of users. Also included on Lunar Client. |
-| [sepals](https://modrinth.com/mod/sepals) | None | An extremely radical and experimental optimization for Minecraft server performances. | cao-awa | Server | N/A |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | Improves play experience on large multiplayer servers. | Client | Mainly meant for use on MCC Island. Will be an unnecessary add for 90% of users. Also included on Lunar Client. |
+| [sepals](https://modrinth.com/mod/sepals) | None | An extremely radical and experimental optimization for Minecraft server performances. | Server | N/A |
 | [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | Client | Fork of Bedrodium that culls more than just bedrock. |
 
 # Possible Snake Oil
