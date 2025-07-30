@@ -26,7 +26,7 @@
 | [Ixeris](https://modrinth.com/mod/ixeris) | Unknown | Off-thread event polling | Client | Not very effective on idle | 
 | [MoreCulling](https://modrinth.com/mod/moreculling) | Unknown | A mod that changes how multiple types of culling are handled in order to improve performance | Client | N/A |
 | [NoCollision](https://modrinth.com/datapack/no-collision) | Unknown | Removes collision from a few passive mobs to increase FPS and TPS! | Unknown | Has a mod as an option, but description is about the datapack variant. More information needed. |
-| [ScalableLux](https://modrinth.com/mod/scalablelux) | Moonrise | https://modrinth.com/mod/scalablelux | Both | Might not be as efficient as Starlight, as 1.20+ has most of Starlight's enhancements already added. |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | Moonrise | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both | Might not be as efficient as Starlight, as 1.20+ has most of Starlight's enhancements already added. |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A mod that aims to optimize the minecraft server | Server | Also works on Singleplayer / LAN servers if the host has the mod |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Unknown | A Sodium addon that adds features that shouldn't be in Sodium. | Client | Implements a more expanded version of OptiFine's particle disabling and animation settings. Also adds the ability to disable toasts |
 

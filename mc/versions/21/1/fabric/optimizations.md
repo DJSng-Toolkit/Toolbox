@@ -28,7 +28,7 @@
 | [MoreCulling](https://modrinth.com/mod/moreculling) | Unknown | A mod that changes how multiple types of culling are handled in order to improve performance | Client | N/A |
 | [Noisium](https://modrinth.com/mod/noisium) | Performant | Optimises worldgen performance for a better gameplay experience. | Server | Also works on Singleplayer / LAN servers if the host has the mod | 
 | [Palladium](https://modrinth.com/mod/mpalladium) | Unknown | Another optimizing mod, provides deduplication, improved memory control, shader/chunk/nbt optimizations and enchanced mob AI. | Client | Modrinth exclusive. |
-| [ScalableLux](https://modrinth.com/mod/scalablelux) | Moonrise | https://modrinth.com/mod/scalablelux | Both | Might not be as efficient as Starlight, as 1.20+ has most of Starlight's enhancements already added. |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | Moonrise | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both | Might not be as efficient as Starlight, as 1.20+ has most of Starlight's enhancements already added. |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A mod that aims to optimize the minecraft server | Server | Also works on Singleplayer / LAN servers if the host has the mod |
 
 # Edge case
