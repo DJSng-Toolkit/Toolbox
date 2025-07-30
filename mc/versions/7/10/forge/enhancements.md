@@ -1,10 +1,10 @@
 # Quality of Life
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Resource Pack Organizer](https://modrinth.com/mod/resource-pack-organizer) | Unknown |  Enhances the Resource Pack menu by adding folder support for easier pack organization | chylex | Client | N/A |
 
 # Integration
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
 | [Screenshots Enhanced](https://www.curseforge.com/minecraft/mc-mods/screenshots-enhanced) |  Unknown | The Screenshots Enhanced mod improves the way screenshots work in Minecraft. The mod itself modifies the actual process of taking screenshots and adds a new interface to the game which allows you to quickly access screenshots, either by interacting with the chat or pressing a key on your keyboard. | ??? | Client | Performance benefit may not be scaled very big. Only works if you use the modder's keybind. Do not bind to F2. "First of all, you may or may not encounter lag spikes whenever you take a screenshot in vanilla Minecraft. This mod effectively removes every sign of lag, meaning that the game will still be at a constant framerate even if you're playing on a high resolution with many, many colors involved. " |

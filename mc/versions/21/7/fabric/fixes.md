@@ -1,5 +1,5 @@
 # Essential
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | isxander | Both | Also handles some performance optimizations on some versions |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Unknown | Fixes gaps in Block Models and Item Models | MehVahdJukaar | Client | N/A |
@@ -8,13 +8,13 @@
 | [Title Fixer](https://modrinth.com/mod/8zYE8DiW) | None | Simple client side mod that makes titles displayed on-screen always fit inside the screen space. | thegameratort | Client | N/A |
 
 # Situational
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [PacketFixer](https://modrinth.com/mod/c7m1mi73) | Unknown |  A simple mod to fix various problems with packets and nbt. | Tonimatas | Both | Mainly about packet issues with byte sizes. i.e: Packet Too Big |
 [XXLPackets](https://modrinth.com/mod/SeCuopwJ) | Unknown |  XXL Packets is a fork of XL Packets which raises the packet size limit from 2MB to the Java Integer limit | Lazurline | Both | Same thing as PacketFixer's "Packet too big" fix. I'm not sure if they conflict. |
 
 # Edge Case
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Disconnect Packet Fix](https://modrinth.com/mod/rd9rKuJT) | Unknown | Works around the MC-271325 bug on Fabric and NeoForge servers (fixes "error sending packet clientbound/minecraft:disconnect") | ascpixi | Server | N/A |
 | [Language Reload](https://modrinth.com/mod/uLbm7CG6) | Unknown |  Reduces load times and adds fallbacks for languages | Jerozgen | Client | *Very* strong edge case, just makes language changes faster. |

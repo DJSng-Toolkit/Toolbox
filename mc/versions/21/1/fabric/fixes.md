@@ -1,3 +1,3 @@
 # Integration 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |

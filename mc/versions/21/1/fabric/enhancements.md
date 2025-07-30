@@ -1,5 +1,5 @@
 # Visual
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
@@ -8,7 +8,7 @@
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Spyxar | Client | Replacement for "Keystrokes" in most Client Launchers |
 
 # Integration 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | fishstiz | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |

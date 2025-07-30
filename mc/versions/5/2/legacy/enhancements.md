@@ -1,4 +1,4 @@
 # Integration
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [ForcePort](https://modrinth.com/mod/forceport) | Unknown | A mod that forces the port to always be the same when using the "Open To LAN" feature! | GalvinPython | Client | Helpful if you want to host a server and port forward the port to open the server past the LAN. Modern versions for modern versions before 1.20.6 might need to change the JRE to Java 21. On older versions you have to edit the port in `Config/forceport.txt` but newer versions add the port selector to the Open to LAN GUI. |

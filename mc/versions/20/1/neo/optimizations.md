@@ -1,5 +1,5 @@
 # Essential
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [APTweaks: Core](https://modrinth.com/mod/L5xaBiBb) |
 | [APTweaks: Spawn](https://modrinth.com/mod/217PsbJI) |
@@ -19,7 +19,7 @@
 | [Xenon](https://modrinth.com/mod/xenon-forge) | Other Sodium ports |  A Forge port of the Sodium performance mod. | Txni | Client | Based on Embeddium. |
 
 # Situational
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Best effective on the Server side, likely an edge case on Client. |
 | [AchievementOptimizer](https://modrinth.com/mod/SvXrP8rT) |
@@ -43,7 +43,7 @@
 | [Smoothchunk mod](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) | 
 
 # Edge case
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 | [FastEvent](https://modrinth.com/mod/LauZQ6kM) | 
@@ -54,7 +54,7 @@
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
 # Possible Snake Oil
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Clear GPU Cache](https://modrinth.com/mod/n5y9HLWd) | 
 | [Flerovium](https://modrinth.com/mod/4Rh1Mobu) | 

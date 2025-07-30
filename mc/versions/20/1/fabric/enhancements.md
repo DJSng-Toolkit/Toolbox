@@ -1,5 +1,5 @@
 # Visual
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
@@ -9,7 +9,7 @@
 
 
 # Quality of Life
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
 | [ChatNotify](https://modrinth.com/mod/Iudurxl8) |
@@ -22,7 +22,7 @@
 
 
 # Integration 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | 
@@ -36,21 +36,21 @@
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Sollace | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
 # Required by other players
 (but not required by server)
 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 # Dangerous mods
 These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
 Beware!
 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 

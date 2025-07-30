@@ -15,7 +15,7 @@
 -->
 
 # Visual
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [3D\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers) | Unknown | Render the player skin layer in 3D! | tr7zw | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | None | Food/hunger-related HUD improvements | squeek502 | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
@@ -28,7 +28,7 @@
 
 
 # Quality of Life
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Scherso | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
@@ -36,7 +36,7 @@
 
 
 # Integration 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. **On this version, NCR will not let you join servers unless you agree to sign messages. That is your one and only warning that chat reports are enabled..** |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Chaosyr | Client | N/A |
@@ -47,21 +47,21 @@
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Sollace | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
 # Required by other players
 (but not required by server)
 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 # Dangerous mods
 These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
 Beware!
 
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 

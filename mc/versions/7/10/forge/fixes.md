@@ -2,13 +2,13 @@
 > Use UniMixins for the best experience. You do not need any other mixin mod after installing UniMixins.
 
 # Essential
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [SkinPort](https://www.curseforge.com/minecraft/mc-mods/skinport) | Unknown | This mod adds rendering support for the new skin format introduced in minecraft 1.8. | LainMI | Client | N/A |
 | [WhitelistFixer](https://modrinth.com/mod/whitelistfixer) | Unknown | Fixes mojang API changes breaking the whitelist on 1.7.10 | FalsePattern | Server | Cannot be applied on Vanilla. | 
 
 # Situational
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [BugTorch](https://modrinth.com/mod/bugtorch) | Unknown | Bug fixes and optimizations for Vanilla 1.7.10 and a few mods. | jss2a98aj | Both (Independant) | Performance benefits might not scale as big. |
 | [Hodgepodge](https://modrinth.com/mod/hodgepodge) | Unknown | A Hodgepodge of Fixes | GNTH(?) | Both | N/A |

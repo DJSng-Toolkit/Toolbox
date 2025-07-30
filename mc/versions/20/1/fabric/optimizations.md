@@ -1,5 +1,5 @@
 # Essential
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
 | [Embeddium](https://modrinth.com/mod/embeddium) | Unknown | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
@@ -12,7 +12,7 @@
 | [Sodium](https://modrinth.com/mod/sodium) | Unknown | The fastest rendering optimization mod for Minecraft. | CaffeineMC | Client | You should also install [Indium](https://modrinth.com/mod/indium) for better compatibiity. |
 
 # Situational
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | None | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | N/A |
 | [Cull Less Leaves](https://modrinth.com/mod/qthuEuVy) | Unknown | Cull leaves while looking hot! | isxander | Client | Alternative for Cull Leaves that lets you keep more of the inside leaves |
@@ -23,7 +23,7 @@
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Performant | Optimises worldgen performance for a better gameplay experience. | Steveplays | Server | Also works on Singleplayer / LAN servers if the host has the mod | 
 
 # Edge case
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | thosea | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | astei | Both | N/A |
@@ -31,7 +31,7 @@
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | spottedleaf | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
 # Possible Snake Oil
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 <!-- TODO: 1.20.1 --  add from this list

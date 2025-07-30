@@ -1,5 +1,5 @@
 # Essential
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine) | Unknown | A fork of Hesperus with many performance improvements and bugfixes | Desoroxxx | Server | Fork of Phosphor based on Hesperus. |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Pixelmon, Sync | Using async path-tracing to hide Block-/Entities that are not visible | tr7zw | Client | N/A |
@@ -11,16 +11,16 @@
 | [VintageFix](https://modrinth.com/mod/vintagefix) | Unknown | Load time and RAM use optimizations for 1.12.2 | embeddedt | Both | Use along with LoliASM. |
 
 # Situational
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AI\-Improvements](https://modrinth.com/mod/ai-improvements) | Unknown | Performance improvements for vanilla AI, with the ability to turn off certain AI behaviors | bl4ckscor3 | Both | Redundant with [UniversalTweaks](https://modrinth.com/mod/universal-tweaks). Best effective on the Server side, likely an edge case on Client. |
 | [Phosphor Lighting Engine](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | UAlfheim | No-compromises lighting engine optimization mod | CaffeineMC | Both | Requires [this forge version](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) or another backwards compatible port on 1.12. Not as effective as Starlight. |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Considered *very* dangerous by some modders. |
 
 # Edge case
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
 
 # Possible Snake Oil
-| Name | Incompatibilities | Description | Author | Client / Server | Notes |
+| Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: | :---: |
