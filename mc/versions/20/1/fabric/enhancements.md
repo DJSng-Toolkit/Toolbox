@@ -12,24 +12,24 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | OBro1961 | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
-| [ChatNotify](https://modrinth.com/mod/Iudurxl8) |
+| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | - | - | - | - |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | BlayTheNinth | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Kira-NT | Client | N/A |
-| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | 
-| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | 
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) |
+| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | - | - | - | - |
+| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | - | - | - | - |
+| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) | - | - | - | - |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | isxander | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Jade](https://modrinth.com/mod/nvQzSEkH) | 
-| [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | 
+| [Jade](https://modrinth.com/mod/nvQzSEkH) |  - | - | - | - |
+| [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) |  - | - | - | - |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Enjaral | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Darkhax | Client | N/A |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) | 
+| [World Host](https://modrinth.com/mod/2AIZDfYo) |  - | - | - | - |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | IotaBread | Client | N/A | 
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) |  Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Xaero | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Xaero | Client | N/A | 

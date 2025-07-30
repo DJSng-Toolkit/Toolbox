@@ -29,10 +29,10 @@
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| Cull Clouds | Unknown | 
+| Cull Clouds | Unknown | - | Client | - |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | astei | Both | N/A |
 
 # Possible snake oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus) | Unknown |
+| [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus) | Unknown | - | Client | - |

@@ -18,4 +18,4 @@
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [FastEvent](https://modrinth.com/mod/LauZQ6kM) | 
+| [FastEvent](https://modrinth.com/mod/LauZQ6kM) |  - | - | - | - |

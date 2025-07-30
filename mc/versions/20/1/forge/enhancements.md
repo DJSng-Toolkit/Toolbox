@@ -4,9 +4,9 @@
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | 
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | aizistral | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [Recursive Resources Forge](https://www.curseforge.com/minecraft/mc-mods/recursive-resources-forge) | Unknown | This is a Forge port of the Fabric-only mod | Darimus | Client | N/A |
-| [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | 
+| [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | - | - | - | - |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Darkhax | Client | N/A |
-| [Xaero's World Map](https://www.curseforge.com/projects/317780) | 
+| [Xaero's World Map](https://www.curseforge.com/projects/317780) | - | - | - | - |
 
 # Vanilla+
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
