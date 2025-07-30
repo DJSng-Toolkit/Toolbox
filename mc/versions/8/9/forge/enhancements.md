@@ -6,7 +6,7 @@
 | [DamageTint](https://modrinth.com/mod/damagetint) | Unknown | Changes the color of entities that are hurt. | Client | N/A |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Unknown | Improves your heads up display. | Client | backports many trivial text huds from Lunar and Badlion, such as CPS, FPS, Ping, Coords, Reach, Sturation, Time, Memory, etc... Also lets you set custom text boxes, if you wish. |
 | [GlintColorizer](https://modrinth.com/mod/glintcolorizer) | Unknown | Customize the glint of enchanted items. | Client | N/A |
-| [No Hurt Cam](https://modrinth.com/mod/no-hurt-cam-forge) | Unknown | Remove that pesky hurt camera!, makes it easier to pvp, 1.8.9! | ilofizisinsane | Client | N/A |
+| [No Hurt Cam](https://modrinth.com/mod/no-hurt-cam-forge) | Unknown | Remove that pesky hurt camera!, makes it easier to pvp, 1.8.9! | Client | N/A |
 | [OverflowParticles](https://modrinth.com/mod/overflowparticles) | Unknown | Advanced particles mod for 1.8.9, made with OneConfig. | Client | N/A |
 | [PolyBlur](https://modrinth.com/mod/polyblur) | Unknown | Apply motion blur in-game in way, way too many options | Client | N/A |
 | [PolyCrosshair](https://modrinth.com/mod/crosshair) | Unknown | An extremely customizable crosshair mod | Client | N/A |

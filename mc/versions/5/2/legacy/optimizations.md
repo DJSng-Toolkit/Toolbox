@@ -5,7 +5,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [FPS Plus Legacy Fabric](https://modrinth.com/mod/fpspluslf) | Unknown | Legacy Fabric Port of FPS Plus using mixin. | Client | N/A | 
-| [Legacy OptiFabric](https://modrinth.com/mod/legacy-optifabric) | Unknown |  OptiFabric for Legacy Fabric (1.3.1 to 1.13.2) and Ornithe (b1.7.3 to 1.14.4) | tildejustin | Client | No longer
+| [Legacy OptiFabric](https://modrinth.com/mod/legacy-optifabric) | Unknown |  OptiFabric for Legacy Fabric (1.3.1 to 1.13.2) and Ornithe (b1.7.3 to 1.14.4) | Client | No longer
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
