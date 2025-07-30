@@ -2,7 +2,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | N/A |
-| [Embeddium](https://modrinth.com/mod/embeddium) | Unknown | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
+| [Embeddium](https://modrinth.com/mod/embeddium) | Unknown | A powerful, mod-friendly, FOSS client performance mod | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | Both | N/A |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | None | Makes the game boot faster by deferring non-essential initialization | Both | Patched on servers on 1.19.4+. Patched on clients starting with 1.21.x. |
@@ -19,7 +19,7 @@
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | Both | This is mainly a bugfix mod, but some mods such as ForgetMeChunk and Entity Collision FPS Fix are included in this mod, so it counts. |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Reduce resource usage while Minecraft is in the background | Client | Also applies to battery mode and idle mode. Overrides Vanilla's "AFK Mode" setting. |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups). Might conflict with Memory Leak Fix. |
-| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server | Both | Might cause mod conflicts. |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | Unknown | A mod that fixes random memory leaks for both the client and server | Both | Might cause mod conflicts. |
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Performant | Optimises worldgen performance for a better gameplay experience. | Server | Also works on Singleplayer / LAN servers if the host has the mod | 
 
 # Edge case
@@ -27,7 +27,7 @@
 | --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
-| [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | Client | Might be redundant. The biggest effect will be on text heavy scenarios. |
+| [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | Client | Might be redundant. The biggest effect will be on text heavy scenarios. Does very little for performance. |
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
 # Possible Snake Oil

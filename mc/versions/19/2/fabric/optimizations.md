@@ -23,7 +23,7 @@
 | [FastAnim](https://modrinth.com/mod/fastanim) | Unknown | Speeds up entity animation calculations! | Client | N/A |
 | [FPS Reducer](https://modrinth.com/mod/fps-reducer) |  Unknown | Reduce GPU and CPU usage automatically when no user operation exists. | Client | Similar to Dynamic FPS but also has support for older versions (pre-1.14). |
 | [Hydrogen](https://modrinth.com/mod/hydrogen/versions) | Unknown | Reduces the memory usage of the game in more modded scenarios | Both | Deprecated by the official author. May be incompatible with **FerriteCore** |
-| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server | Both | Might cause mod conflicts. |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | Unknown | A mod that fixes random memory leaks for both the client and server | Both | Might cause mod conflicts. |
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Can drastically improve frame rates by limiting how far away tile entities and entities can render, with configurable ranges. | Client | Modrinth mirror has 1.20.1 builds only. |
 
 # Edge case

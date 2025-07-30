@@ -5,7 +5,7 @@
 | [APTweaks: Spawn](https://modrinth.com/mod/217PsbJI) | - | - | - | - |
 | [Better Fps - Render Distance](https://www.curseforge.com/projects/551520) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | N/A |
-| [Embeddium](https://modrinth.com/mod/embeddium) | Other Sodium ports | A powerful, mod-friendly, FOSS client performance mod | FiniteReality | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
+| [Embeddium](https://modrinth.com/mod/embeddium) | Other Sodium ports | A powerful, mod-friendly, FOSS client performance mod | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | Both | N/A |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
@@ -32,7 +32,7 @@
 | [Fast Items](https://modrinth.com/mod/H80QSt2v) |  - | - | - | - |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups) |
 | [Idle Boost](https://modrinth.com/mod/REC6ythZ) | Unknown | This mod optimizes performance when Minecraft is running in the background. | Client | Compatible with Dynamic FPS |
-| [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) | Unknown | Server | Buggy in my own experiences. |
+| [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) | Unknown | A lightweight entity-tick-scheduler for doubling your TPS. | Server | Buggy in my own experiences. |
 | [Mobtimizations](https://modrinth.com/mod/mobtimizations) | 
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Performant | Optimises worldgen performance for a better gameplay experience. | Server | Also works on Singleplayer / LAN servers if the host has the mod | 
 | [Palladium](https://modrinth.com/mod/mpalladium) | Unknown | Another optimizing mod, provides deduplication, improved memory control, shader/chunk/nbt optimizations and enchanced mob AI. | Client | Modrinth exclusive. |
@@ -47,9 +47,9 @@
 | --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
 | [FastEvent](https://modrinth.com/mod/LauZQ6kM) |  - | - | - | - |
-| [Krypton FNP](https://modrinth.com/mod/JkxWVYwU) | Unknown | Both | I'm not sure if this actually does anythiung without Krypton. But I can't find a Krypton fork for this setup. |
+| [Krypton FNP](https://modrinth.com/mod/JkxWVYwU) | Unknown | (Forge & NeoForge port) A mod to optimize the Minecraft networking stack | Both | N/A |
 | [Lag Optimizer](https://www.curseforge.com/projects/1294813) |  - | - | - | - |
-| [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Client | Redundant if you have Xenon installed. |
+| [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | Client | Redundant if you have Xenon installed. The biggest effect will be on text heavy scenarios. Does very little for performance. |
 | [Smooth Boot \(Reloaded\)](https://modrinth.com/mod/z53V2L4P) |  - | - | - | - |
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
