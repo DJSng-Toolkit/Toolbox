@@ -21,7 +21,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 
 # General resources (resources)
 | Page | Description |
-| :---: | --- |
+| --- | --- |
 | [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
 | [🔃 Mod "Avoid" list](nonspecific/avoid.md) | Mods you should avoid, for various reasons. |
 | [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
