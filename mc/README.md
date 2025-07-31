@@ -19,13 +19,13 @@ And then Toolkit was born.
 # Disclaimer
 Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
 
-# General Resources
-| Page |
-| :---: |
-| *Link to page* |
-| [🔃 Launchers & Clients](nonspecific/launchers.md) |
-| [🚧 Modpacks](nonspecific/modpacks.md) |
-| [🔃 Websites](nonspecific/websites.md) |
+# General resources (resources)
+| Page | Description |
+| :---: | --- |
+| [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
+| [🔃 Mod "Avoid" list](nonspecific/avoid.md) | Mods you should avoid, for various reasons. |
+| [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
+| [🔃 Websites](nonspecific/websites.md) | Websites of various types, all Minecraft themes. |
 
 # Modding resources (per-version)
 | Version | Page |
