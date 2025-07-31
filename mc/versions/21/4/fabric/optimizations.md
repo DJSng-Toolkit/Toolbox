@@ -49,13 +49,6 @@
 | [Reflex AntiLag](https://modrinth.com/mod/reflex-antilag) | Unknown | Implementing Nvidia reflex in Minecraft to reduce latency | Both | Requires a GTX 9XX or later. Very lightly tested, with no benchmarks. Use with caution. |
 | [RenderScale](https://modrinth.com/mod/renderscale) | Iris + Distant Horizions [^2] | Allows you to change Minecraft's render resolution separately from the HUD elements | Client | May cause lower performance, I haven't tested. Will definitely make your game look bad. Fork of ResolutionControl++. |
 
-# Snake Oil / Gimmick
-| Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: |
-| [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | Throw away display updates your monitor can't process for more FPS | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see. Enable VSync if you experience stutters and/or high GPU usage. |
-
-
-
 
 [^1]: Original repo only goes up to 1.21.1 but you can get 1.21.2+ if you use [drouarb's fork](https://github.com/drouarb/nvidium).
 

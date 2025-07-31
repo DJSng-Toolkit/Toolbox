@@ -46,11 +46,6 @@
 | [RenderScale](https://modrinth.com/mod/renderscale) | Iris + Distant Horizions [^2] | Allows you to change Minecraft's render resolution separately from the HUD elements | Client | May cause lower performance, I haven't tested. Will definitely make your game look bad. Fork of ResolutionControl++. |
 | [ThreatenGL](https://modrinth.com/mod/threatengl) | Unknown | Threatens Minecraft to use modern versions of OpenGL | Client | Just changes the OpenGL version from 3.2 to 4.6 (or 4.1 on Mac). Require a card from 2012 or later. |
 
-# Snake Oil / Gimmick
-| Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: |
-| [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | Throw away display updates your monitor can't process for more FPS | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see. Enable VSync if you experience stutters and/or high GPU usage. |
-
 
 
 
