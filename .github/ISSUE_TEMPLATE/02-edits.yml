@@ -70,7 +70,7 @@ body:
     id: additional-context
     attributes:
       label: Additional context
-      description: Add extra context that could be important. Use this for anything that doesn't relate to what the inaccuracy is, i.e: possible changes that could be made
+      description: Add extra context that could be important, such as changes that could be made
       placeholder: Add details
     validations:
       required: false
