@@ -3,6 +3,7 @@ name: Issue assignment
 on:
     issues:
         types: [opened]
+    pull_request:
         types: [opened, edited, synchronize, reopened]
 
 jobs:
