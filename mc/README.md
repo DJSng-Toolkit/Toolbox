@@ -22,10 +22,10 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 # General resources (resources)
 | Page | Description |
 | --- | --- |
-| [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
+| [🔃 Launchers & Clients]([nonspecific/launchers.md](https://github.com/DJSng-Toolkit/the-library?tab=readme-ov-file#gaming---minecraft)) | Launchers to play the game with. |
 | [🔃 Mod "Avoid" list](nonspecific/avoid.md) | Mods you should avoid, for various reasons. |
 | [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
-| [🔃 Websites](nonspecific/websites.md) | Websites of various types, all Minecraft themes. |
+| [🔃 Websites]([nonspecific/websites.md](https://github.com/DJSng-Toolkit/the-library?tab=readme-ov-file#gaming---minecraft)) | Websites of various types, all Minecraft themes. |
 
 # Modding resources (per-version)
 | Version | Page |
