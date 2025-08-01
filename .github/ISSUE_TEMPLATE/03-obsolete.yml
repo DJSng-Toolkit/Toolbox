@@ -1,0 +1,43 @@
+name: Remove an entry
+description: Remove an entry as obsolete
+labels: ["type: enhancement", "etc: triage"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Basic checklist
+      options:
+        - label: I have searched existing issues and did not find a duplicate of my issue
+          required: false
+        - label: I have not been truthful to the above boxes and want my issue to be closed as "Not Planned"
+          required: false
+  - type: dropdown
+    id: game
+    attributes:
+      label: Correction for....
+      description: What needs correction?
+      options:
+        - Minecraft
+        - WEBFISHING
+        - ROBLOX
+        - Toolbox's Wiki
+        - Other
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What needs removal?
+      description: Explain the changes that should be made.
+      placeholder: Add details
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add extra context that could be important, such as why the mod should be removed.
+      placeholder: Add details
+    validations:
+      required: true

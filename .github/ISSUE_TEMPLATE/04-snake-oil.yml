@@ -1,0 +1,29 @@
+name: Move mod to "avoid" list
+description: Mark a Minecraft mod as snake oil.
+labels: ["type: enhancement", "etc: triage"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Basic checklist
+      options:
+        - label: I have searched existing issues and did not find a duplicate of my issue
+          required: false
+        - label: I have not been truthful to the above boxes and want my issue to be closed as "Not Planned"
+          required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong?
+      description: Explain the changes that should be made.
+      placeholder: Add details
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add extra context that could be important, such as changes that could be made
+      placeholder: Add details
+    validations:
+      required: false
