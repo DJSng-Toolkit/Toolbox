@@ -1,5 +1,4 @@
-# Toolbox: Tools for the Modder's Toolbox
-### A gaming resource created by DJSng about Lists™ and documentation
+# Toolbox: Gaming resources based on personal experiences
 
 > [!NOTE]  
 > Toolbox is in early development by a one man team. It may lack information or need corrections.
