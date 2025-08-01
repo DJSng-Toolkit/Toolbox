@@ -1,0 +1,76 @@
+name: Corrections and changes
+description: Request a correction or change to the documentation
+labels: ["type: enhancement", "etc: triage"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Basic checklist
+      options:
+        - label: I have searched existing issues and did not find a duplicate of my issue
+          required: false
+        - label: I am aware that performance-intensive mods will not be added, including shaders
+          required: false
+        - label: I am aware that OptiFine will not be added on versions that have a better alternative
+          required: false
+        - label: I have not been truthful to the above boxes and want my issue to be closed as "Not Planned"
+          required: false
+  - type: dropdown
+    id: game
+    attributes:
+      label: Correction for....
+      description: What needs correction?
+      options:
+        - Minecraft
+        - WEBFISHING
+        - ROBLOX
+        - Toolbox's Wiki
+        - Other
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: (MC) Game version
+      description: What version of Minecraft is this suggestion for? **Remember that I do not list mods for 1.15-1.13.**
+      options:
+        - N/A
+        - 1.21.x
+        - 1.20.x
+        - 1.19.x
+        - 1.18.x
+        - 1.17.x
+        - 1.16.x
+        - 1.12.x
+        - 1.8.x
+        - 1.7.x
+        - 1.6.x
+        - 1.5.x
+      default: 0
+    validations:
+      required: false
+  - type: textarea
+    id: more-versions
+    attributes:
+      label: (MC) Other versions
+      description: Does your mod support any other versions?
+      placeholder: List all other supported versions or write "N/A"
+    validations:
+      required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong?
+      description: Explain the changes that should be made.
+      placeholder: Add details
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add extra context that could be important. Use this for anything that doesn't relate to what the inaccuracy is, i.e: possible changes that could be made
+      placeholder: Add details
+    validations:
+      required: false

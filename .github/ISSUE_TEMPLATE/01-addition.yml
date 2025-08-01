@@ -1,5 +1,5 @@
-name: New addition
-description: Suggest an idea for Toolkit
+name: Mod / Documentation addition
+description: Suggest something new to be added
 labels: ["type: enhancement", "etc: triage"]
 body:
   - type: checkboxes
@@ -9,21 +9,23 @@ body:
       options:
         - label: I have searched existing issues and did not find a duplicate of my issue
           required: false
-        - label: I am aware that shaders and other intensive overhauls will not be added
+        - label: I am aware that performance-intensive mods will not be added, including shaders
           required: false
-        - label: I am aware that OptiFine will not be added
+        - label: I am aware that OptiFine will not be added on versions that have a better alternative
           required: false
-        - label: I have not been truthful to the above boxes
+        - label: I have not been truthful to the above boxes and want my issue to be closed as "Not Planned"
           required: false
   - type: dropdown
     id: game
     attributes:
-      label: Suggestion for...
-      description: What game is this suggestion about? Please select.
+      label: Documentation for...
+      description: What section do you want to add to?
       options:
         - Minecraft
         - WEBFISHING
-        - General suggestion for placeholder (not a game)
+        - ROBLOX
+        - Toolbox's Wiki
+        - Other
       default: 0
     validations:
       required: true
@@ -31,7 +33,7 @@ body:
     id: version
     attributes:
       label: (MC) Game version
-      description: What version of Minecraft is this suggestion for? Remember that I do not list mods for 1.15-1.13.
+      description: What version of Minecraft is this suggestion for? **Remember that I do not list mods for 1.15-1.13.**
       options:
         - N/A
         - 1.21.x
@@ -59,8 +61,8 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: Mod details
-      description: Explain what the mod does
+      label: Details
+      description: Explain what needs to be added. Tell us about your mod!
       placeholder: Add details
     validations:
       required: true
